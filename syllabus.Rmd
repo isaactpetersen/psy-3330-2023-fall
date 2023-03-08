@@ -53,21 +53,62 @@ Chair of Department: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-b
 
 # Prerequisites {#prereqs}
 
-<mark>INSERT</mark>
+The Department of Psychological and Brain Sciences has a hierarchical course structure that requires students to complete certain prerequisite courses before taking upper-level courses.
+This course requires successful completion (C- or higher) of Elementary Psychology, Introduction to Clinical Psychology, and Research Methods in Psychology.
+The department will check student records to ensure completion of course prerequisites.  
 
 # Description of Course {#description}
 
 <mark>INSERT</mark>
-
+The goal of this course is to provide students with a comprehensive introduction to child and adolescent psychopathology.
+This includes an emphasis on the developmental psychopathology framework and involves thinking critically about the causes, consequences, ongoing questions, and preventative challenges of child psychopathology facing scientists, youth and their families, clinicians, and society.
+We apply elements of the developmental psychopathology model to a range of childhood disorders.  Within each syndrome, possible genetic, neurobiological, psychological, familial, and socio-cultural causal factors will be scrutinized.
+We will also review and discuss risk and resilience factors for child psychopathology (individual, family, community) as well as models of treatment and prevention.
 *You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
 
 # Learning Objectives {#objectives}
 
-<mark>INSERT</mark>
+The specific objectives of this course are for students to:
 
-# Required Textbook {#textbook}
+- Identify the symptoms and course of psychological disorders in childhood
+- Develop an understanding of the various risk factors involved in the development of psychopathology 
+- Identify factors that may protect against the development of psychopathology during childhood
+- Become acquainted with different methods of the treatment and prevention of childhood psychological disorders
+- Become familiar with the various research methods used to study the development of psychopathology, including their strengths and limitations
+- Read and critique original source articles in developmental psychopathology
+- Write an APA-style literature review on a relevant topic in developmental psychopathology
 
-<mark>INSERT</mark>
+# Required Textbook and Materials {#textbook}
+
+To provide you with a textbook with as low a cost as possible, you will be provided an eText of the following book via ICON Direct, unless you decline:
+
+Mash, E. J., Wolfe, D. A., & Williams, K. N. (2023). *Childhood psychopathology* (8th Ed.). Cengage.
+
+However, you may decline the eText via ICON Direct to purchase a hardcopy of the textbook (for a higher cost), if you prefer.
+
+In addition to the textbook, additional required readings for selected topics will include the following articles.  PDFs of these articles can be found on ICON.
+
+1. Shea, S., Gordon, K., Hawkins, A., Kawchuk, J., & Smith, D. (2000). Pathology in the hundred acre wood: A neurodevelopmental perspective on A.A. Milne. *Canadian Medical Association Journal, 163*, 1157–1159. (Just for fun! 😊)
+1. Ra, C.K., Cho, J., Stone, M.D., De La Cerde, J., Goldensen, N.I., Moroney, E., Tung, I, Lee, S.S. & Leventhal, A.M. (2018). Association of digital media use with subsequent symptoms of attention-deficit hyperactivity disorder among adolescents. *Journal of the American Medical Association, 320*, 255–263.
+1. Christakis, D.A., Zimmerman, F.J., DiGuiseppe, D.L., & McCarty, C.A. (2004). Early television viewing and subsequent attentional problems in children. *Pediatrics, 113*, 708–713.
+1. Thapar, A., Rice, F., Hay, D., Boivin, J., Langley, K., van den Bree, M., Rutter, M., & Harold, G. (2009). Prenatal smoking might not cause attention-deficit hyperactivity disorder: Evidence from a novel design. *Biological Psychiatry, 66*, 722–727.
+1. Ozonoff, S., Iosif, A., Baguio, F., Cook, I., Hill, M.M., Hutman, T., Rogers, S., Rozga, A., Sangha, S., Sigman, M., Steinfeld, M., & Young, G. (2010). A prospective study of the emergence of early behavioral signs of autism. *Journal of the American Academy of Child and Adolescent Psychiatry, 49*, 256–266.
+1. Frick, P. (2012). Developmental pathways to conduct disorder: Implications for future directions in research, assessment, and treatment. *Journal of Clinical Child and Adolescent Psychology, 41*, 378–389.
+1. University of Washington Writing Center. (2014). Writing a Literature Review in Psychology.
+1. Kendall, P.C., Settipani, C.A., & Cummings, C.M. (2012). No need to worry: The promising future of child anxiety research. *Journal of Clinical Child and Adolescent Psychology, 41*, 103–105.
+1. Stringaris, A., Vidal-Rabis, P., Brotman, M.A., & Leibenluft, E. (2017). Practitioner Review: Definition, recognition, and treatment challenges of irritability in young people. *Journal of Child Psychology and Psychiatry*. doi: 10.1111/jcpp.12823
+1. Stice, E., South, K., & Shaw, H. (2012). Future directions in the etiologic, prevention, and treatment research for eating disorders. *Journal of Clinical Child and Adolescent Psychology, 41*, 845–855.
+1. Young, R., Sproeber, N., Groschwitz, R.C., Preiss, M., & Plener, P.L. (2014). Why alternative teenagers self-harm: Exploring the link between non-suicidal self-injury, attempted suicide, and adolescent identity. *BMC Psychiatry, 14*, 137.
+1. Colvert, E., Rutter, M., Kreppner, J., Beckett, C., Castle, J., Froothues, C., Hawkins, A., Stevens, S., & Songua-Barke, E.J.S. (2008). Do theory of mind and executive function deficits underlie the adverse outcomes associated with profound early deprivation? Findings from the English and Romanian Adoptees Study. *Journal of Abnormal Child Psychology, 36*, 1057–1068.
+1. Nelson, C.A., Zeanah, C.H., Fox, N.A., Marshall, P.J., Smyke, A.T., & Guthrie, D. (2007). Cognitive recovery in socially deprived young children: The Bucharest Early Intervention Project. *Science, 318*, 1937–1940.
+1. Davis, E., Glynn, L.M., Dunkel-Schetter, C., Hobel, C., Chicz-Demet, A., & Sandman, C.A. (2007). Prenatal exposure to maternal depression and cortisol influences infant temperament. *Journal of the American Academy of Child and Adolescent Psychiatry, 46*, 737–746.
+1. Burke, J.D., Pardini, D.A., & Loeber, R. (2008). Reciprocal relationships between parenting behavior and disruptive psychopathology from childhood through adolescence. *Journal of Abnormal Child Psychology, 36*, 679–692.
+1. Cummings, E.M., Goeke-Morey, M.C., & Papp, L.M. (2004). Everyday marital conflict and child aggression. *Journal of Abnormal Child Psychology, 32*, 191–202.
+1. McDonough, M.H., Jose, P.E., & Stewart, J. (2016). Bi-directional effects of peer relationships and adolescent substance use: A longitudinal study. *Journal of Youth and Adolescence, 45*, 1652–1663.
+1. Bonanno, R., & Hymel, S. (2013). Cyberbullying and internalizing difficulties: Above and beyond the impact of traditional forms of bullying. *Journal of Youth and Adolescence, 42*, 685–397.
+1. Chung, H.L., & Steinberg, L. (2006). Relations between neighborhood factors, parenting behaviors, peer deviance, and delinquency among serious juvenile offenders. *Developmental Psychology, 42*, 319–331.
+1. Collishaw, S., Pickles, A., Messer, J., Rutter, M., Shearer, C., & Maughan, B. (2007). Resilience to adult psychopathology following childhood maltreatment: Evidence from a community sample. *Child Abuse and Neglect, 31*, 211–229.
+1. Conduct Problems Prevention Research Group. (2011). The effects of the Fast Track preventative intervention on the development of conduct disorder across childhood. *Child Development, 82*, 331–345.
 
 # Academic Honesty and Misconduct {#academicHonesty}
 
