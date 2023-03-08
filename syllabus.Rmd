@@ -59,34 +59,36 @@ The department will check student records to ensure completion of course prerequ
 
 # Description of Course {#description}
 
-<mark>INSERT</mark>
+This course satisfies the upper-level elective requirement for Psychological and Brain Sciences majors.
+Additionally, students with broad interests in health and development will find this course useful. 
 The goal of this course is to provide students with a comprehensive introduction to child and adolescent psychopathology.
-This includes an emphasis on the developmental psychopathology framework and involves thinking critically about the causes, consequences, ongoing questions, and preventative challenges of child psychopathology facing scientists, youth and their families, clinicians, and society.
-We apply elements of the developmental psychopathology model to a range of childhood disorders.  Within each syndrome, possible genetic, neurobiological, psychological, familial, and socio-cultural causal factors will be scrutinized.
+This includes an emphasis on the developmental psychopathology framework and involves thinking critically about the causes, consequences, ongoing questions, and preventative challenges of child psychopathology facing scientists, youth and their families, clinicians, and society. 
+We apply elements of the developmental psychopathology model to a range of childhood disorders. 
+Within each syndrome, possible genetic, neurobiological, psychological, familial, and socio-cultural causal factors will be scrutinized.
 We will also review and discuss risk and resilience factors for child psychopathology (individual, family, community) as well as models of treatment and prevention.
 *You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
 
 # Learning Objectives {#objectives}
 
-The specific objectives of this course are for students to:
+At the end of this course, you will be able to:
 
 - Identify the symptoms and course of psychological disorders in childhood
-- Develop an understanding of the various risk factors involved in the development of psychopathology 
-- Identify factors that may protect against the development of psychopathology during childhood
-- Become acquainted with different methods of the treatment and prevention of childhood psychological disorders
-- Become familiar with the various research methods used to study the development of psychopathology, including their strengths and limitations
-- Read and critique original source articles in developmental psychopathology
-- Write an APA-style literature review on a relevant topic in developmental psychopathology
+- Distinguish the various risk factors that contribute to psychopathology in childhood.  
+- Identify factors that may protect against the development of psychopathology and promote resilience.
+- Describe different methods for treatment and prevention of psychological disorders in childhood.
+- Critique, analyze, and synthesize original source articles in developmental psychopathology
+- Produce an APA-style literature review that integrates empirical findings in developmental psychopathology
 
 # Required Textbook and Materials {#textbook}
 
 To provide you with a textbook with as low a cost as possible, you will be provided an eText of the following book via ICON Direct, unless you decline:
 
-Mash, E. J., Wolfe, D. A., & Williams, K. N. (2023). *Childhood psychopathology* (8th Ed.). Cengage.
+**Mash, E. J., Wolfe, D. A., & Williams, K. N. (2023). *Childhood psychopathology* (8th Ed.). Cengage.**
 
-However, you may decline the eText via ICON Direct to purchase a hardcopy of the textbook (for a higher cost), if you prefer.
+However, if you want to purchase a hardcopy of the textbook (for a higher cost) you may decline the eText via ICON Direct.
 
-In addition to the textbook, additional required readings for selected topics will include the following articles.  PDFs of these articles can be found on ICON.
+In addition to the textbook, additional required readings for selected topics will include the following articles.
+PDFs of these articles can be found on ICON.
 
 1. Shea, S., Gordon, K., Hawkins, A., Kawchuk, J., & Smith, D. (2000). Pathology in the hundred acre wood: A neurodevelopmental perspective on A.A. Milne. *Canadian Medical Association Journal, 163*, 1157–1159. (Just for fun! 😊)
 1. Ra, C.K., Cho, J., Stone, M.D., De La Cerde, J., Goldensen, N.I., Moroney, E., Tung, I, Lee, S.S. & Leventhal, A.M. (2018). Association of digital media use with subsequent symptoms of attention-deficit hyperactivity disorder among adolescents. *Journal of the American Medical Association, 320*, 255–263.
@@ -114,24 +116,47 @@ In addition to the textbook, additional required readings for selected topics wi
 
 All students in CLAS courses are expected to abide by the [CLAS Code of Academic Honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
-Please note that collaboration with other classmates on <mark>INSERT</mark> is not permitted.
-However, I do encourage you to collaborate with classmates on <mark>INSERT</mark>.
+Please note that collaboration with other classmates on <mark>quizzes and during exams</mark> is not permitted.
+However, I do encourage you to collaborate with classmates <mark>to *prepare* for exams (e.g., informal study groups)</mark>.
 
 # Course Requirements and Policies {#requirements}
 
 ## Lecture {#lecture}
 
-<mark>INSERT</mark>
-
-## Discussion Section {#discussionSection}
-
-<mark>INSERT</mark>
+We will meet for lectures on Mondays, Wednesdays, and Fridays from 10:30–11:20 a.m. in 158 Van Allen. 
+My powerpoint presentations for the lectures will be posted on the ICON course website no later than noon on the day before the lecture.
+<u>Please note:</u> powerpoint presentations are an outline of my points. 
+<u>It is your responsibility to take notes during class.</u>
+If you have questions about the lecture notes or need clarification of any of the points, please ask in class or meet with the TA or me during office hours. 
+If you miss class and/or need help catching up on the notes, please make an appointment with the TA.
 
 ## Attendance and Participation {#attendanceParticipation}
 
-<mark>INSERT</mark>
+Attendance at lectures is required and will be checked and factored into final grades (see grading section below).
+There are 43 lectures during the semester (excluding examinations).
+You will receive one point for attendance at each lecture up to 40 points (i.e., you will not receive extra credit for attending all 43 lectures).
+<u>Thus, you will not be penalized for missing up to 3 lectures.
+However, you will be responsible for learning any material missed for quizzes and exams, and I strongly encourage you to attend all lectures.
+Poor lecture attendance is likely to affect the quality of students' work and success in the course.</u>
 
-## Readings & Quizzes {#readingQuizzes}
+Students who miss <u>more than 3 lectures</u> due to participation in University activities be will asked to give the instructor a statement <u>before the absence</u> signed by a responsible official that specifies the dates and times the student will miss class.
+Authorized activities include participation in athletic teams, the marching band or pep band, debate teams, and other recognized University groups, as well as participation in University field trips, service with the National Guard, and jury duty.
+Absences due to illnesses or emergencies (that go over 3 lectures) must be documented with the University of Iowa Explanatory Statement for Absence from Class available from the registrar's website.
+Per university policy, if a student will be absent <u>5 or more consecutive days and the absence is due to illness or other emergency</u>, please contact the Registrar Service Center at (319) 384-4300 or registrar@uiowa.edu.
+
+## Readings {#readings}
+
+Readings from your text are assigned by lecture topic.
+You should read and take notes on the material before class.
+Past experience has shown that to do well in this class you should read the assigned material, attend lectures and take notes, and review your notes each week.
+There is too much material being covered in this class to try to study only by frantic preparation immediately before quizzes and exams.
+
+## Workload {#workload}
+
+This is a 3 semester hour course.
+Students should therefore expect to spend [6 additional hours per week](https://clas.uiowa.edu/faculty/student-workload-guidelines) (outside of class) reading the textbook and articles, reviewing lecture material, preparing for quizzes and exams, and completing writing assignments.
+
+## Quizzes {#quizzes}
 
 <mark>INSERT</mark>
 
