@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>I Think I Might Need Some Help…</title>
+
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
+<script src="site_libs/navigation-1.1/sourceembed.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RED2LFP0QW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RED2LFP0QW');
+</script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+<style type="text/css">
+#rmd-source-code {
+  display: none;
+}
+</style>
+
+
+<link rel="stylesheet" href="includes/custom.css" type="text/css" />
+<link rel="stylesheet" href="font/css/roboto.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Class Wiki for Childhood Psychopathology (Fall 2023)</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="syllabus.html">Course Syllabus</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Miscellaneous
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="help.html">I Think I Might Need Some Help...</a>
+    </li>
+    <li>
+      <a href="devpsylab.html">Opportunity to Join My Research Lab!</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+<div class="btn-group pull-right float-right">
+<button type="button" class="btn btn-default btn-xs btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu dropdown-menu-right" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+<li role="separator" class="divider"></li>
+<li><a id="rmd-download-source" href="#">Download Rmd</a></li>
+</ul>
+</div>
+
+
+
+<h1 class="title toc-ignore">I Think I Might Need Some Help…</h1>
+
+</div>
+
+
+<div id="asking-for-help" class="section level1" number="1">
+<h1><span class="header-section-number">1</span> Asking for Help</h1>
+<p>Everyone needs help sometimes—your classmates, your TAs, and your
+professor. And YOU. We know that it can be anxiety-provoking to
+recognize that you need help and to ask for it. And we also know that
+getting the help we need can make a big difference, both inside and
+outside the classroom. So, we encourage you to reach out <u>quickly</u>
+for the help and support that you need!</p>
+</div>
+<div id="i-need-help-with-my-mental-or-physical-health"
+class="section level1" number="2">
+<h1><span class="header-section-number">2</span> I need help with my
+mental or physical health…</h1>
+<ul>
+<li><u>If you or someone you know is contemplating suicide</u>, either
+call the Suicide and Crisis Lifeline at 988, or call 911.</li>
+<li>University Counseling Service: <a
+href="https://counseling.uiowa.edu/"
+class="uri">https://counseling.uiowa.edu/</a>, or 319-335-7294</li>
+<li>Student Health: <a
+href="https://studentlife.uiowa.edu/departments/student-health/"
+class="uri">https://studentlife.uiowa.edu/departments/student-health/</a>,
+or 319-335-8394</li>
+<li>Student Wellness: <a href="https://studentwellness.uiowa.edu/"
+class="uri">https://studentwellness.uiowa.edu/</a>, or 319-335-8394</li>
+</ul>
+</div>
+<div id="i-need-help-with-academic-accommodations"
+class="section level1" number="3">
+<h1><span class="header-section-number">3</span> I need help with
+academic accommodations…</h1>
+<ul>
+<li>Student Disability Services (SDS) is available to help determine
+what academic accommodations may be available to you (e.g., notes, extra
+time for exams, scheduling accommodations, etc.).</li>
+<li>You can apply for student accommodations here: <a
+href="https://sds.studentlife.uiowa.edu/accommodations/apply"
+class="uri">https://sds.studentlife.uiowa.edu/accommodations/apply</a>
+(call 319-335-1462 or email <a href="mailto:sds-info@uiowa.edu"
+class="email">sds-info@uiowa.edu</a> if questions!).</li>
+<li>We are happy to provide recommended accommodations as a part of this
+course, but we need a letter from SDS requesting them.</li>
+</ul>
+</div>
+<div id="im-struggling-and-thinking-about-withdrawing"
+class="section level1" number="4">
+<h1><span class="header-section-number">4</span> I’m struggling and
+thinking about withdrawing…</h1>
+<ul>
+<li>Academic Support and Retention Office (ASRO) can work with you and
+your instructors to generate a retention plan to support your academic
+success and help you get back on track.</li>
+<li>The ASRO office can be reached at <a
+href="mailto:uc-retention@uiowa.edu"
+class="email">uc-retention@uiowa.edu</a> or (319) 335-1497.</li>
+</ul>
+</div>
+<div id="i-need-help-with-a-crisis-or-emergency-situation"
+class="section level1" number="5">
+<h1><span class="header-section-number">5</span> I need help with a
+crisis or emergency situation…</h1>
+<ul>
+<li>Student Care &amp; Assistance (<a
+href="https://dos.uiowa.edu/assistance/"
+class="uri">https://dos.uiowa.edu/assistance/</a>; 319-335-1162)
+provides assistance to students experiencing crisis and emergency
+situations. These situations may include hospitalization, medical
+emergencies or long-term illness, mental health concerns, chronic
+conditions, death of a family member, natural disasters, off-campus
+living concerns, and unexpected events or challenges.</li>
+</ul>
+</div>
+<div id="i-need-help-with-this-class" class="section level1" number="6">
+<h1><span class="header-section-number">6</span> I need help with this
+class…</h1>
+<p>Please come to Office Hours with one of the TAs or with Professor
+Petersen. If you can’t attend office hours, please email any of us to
+arrange a time to meet and discuss how best to help you move forward in
+the class. We are all eager to talk with you and help you to
+succeed!</p>
+</div>
+
+<div id="rmd-source-code">LS0tCnRpdGxlOiAiSSBUaGluayBJIE1pZ2h0IE5lZWQgU29tZSBIZWxwLi4uIgotLS0KCmBgYHtyIHNldHVwLCBpbmNsdWRlID0gRkFMU0V9CmtuaXRyOjpvcHRzX2NodW5rJHNldCgKICBlY2hvID0gVFJVRSwKICBlcnJvciA9IFRSVUUsCiAgY29tbWVudCA9ICIiKQpgYGAKCiMgQXNraW5nIGZvciBIZWxwCgpFdmVyeW9uZSBuZWVkcyBoZWxwIHNvbWV0aW1lc+KAlHlvdXIgY2xhc3NtYXRlcywgeW91ciBUQXMsIGFuZCB5b3VyIHByb2Zlc3Nvci4gQW5kIFlPVS4KV2Uga25vdyB0aGF0IGl0IGNhbiBiZSBhbnhpZXR5LXByb3Zva2luZyB0byByZWNvZ25pemUgdGhhdCB5b3UgbmVlZCBoZWxwIGFuZCB0byBhc2sgZm9yIGl0LgpBbmQgd2UgYWxzbyBrbm93IHRoYXQgZ2V0dGluZyB0aGUgaGVscCB3ZSBuZWVkIGNhbiBtYWtlIGEgYmlnIGRpZmZlcmVuY2UsIGJvdGggaW5zaWRlIGFuZCBvdXRzaWRlIHRoZSBjbGFzc3Jvb20uClNvLCB3ZSBlbmNvdXJhZ2UgeW91IHRvIHJlYWNoIG91dCA8dT5xdWlja2x5PC91PiBmb3IgdGhlIGhlbHAgYW5kIHN1cHBvcnQgdGhhdCB5b3UgbmVlZCEKCiMgSSBuZWVkIGhlbHAgd2l0aCBteSBtZW50YWwgb3IgcGh5c2ljYWwgaGVhbHRoLi4uCgotIDx1PklmIHlvdSBvciBzb21lb25lIHlvdSBrbm93IGlzIGNvbnRlbXBsYXRpbmcgc3VpY2lkZTwvdT4sIGVpdGhlciBjYWxsIHRoZSBTdWljaWRlIGFuZCBDcmlzaXMgTGlmZWxpbmUgYXQgOTg4LCBvciBjYWxsIDkxMS4KLSBVbml2ZXJzaXR5IENvdW5zZWxpbmcgU2VydmljZTogaHR0cHM6Ly9jb3Vuc2VsaW5nLnVpb3dhLmVkdS8sIG9yIDMxOS0zMzUtNzI5NAotIFN0dWRlbnQgSGVhbHRoOiBodHRwczovL3N0dWRlbnRsaWZlLnVpb3dhLmVkdS9kZXBhcnRtZW50cy9zdHVkZW50LWhlYWx0aC8sIG9yIDMxOS0zMzUtODM5NAotIFN0dWRlbnQgV2VsbG5lc3M6IGh0dHBzOi8vc3R1ZGVudHdlbGxuZXNzLnVpb3dhLmVkdS8sIG9yIDMxOS0zMzUtODM5NAoKIyBJIG5lZWQgaGVscCB3aXRoIGFjYWRlbWljIGFjY29tbW9kYXRpb25zLi4uCgotIFN0dWRlbnQgRGlzYWJpbGl0eSBTZXJ2aWNlcyAoU0RTKSBpcyBhdmFpbGFibGUgdG8gaGVscCBkZXRlcm1pbmUgd2hhdCBhY2FkZW1pYyBhY2NvbW1vZGF0aW9ucyBtYXkgYmUgYXZhaWxhYmxlIHRvIHlvdSAoZS5nLiwgbm90ZXMsIGV4dHJhIHRpbWUgZm9yIGV4YW1zLCBzY2hlZHVsaW5nIGFjY29tbW9kYXRpb25zLCBldGMuKS4KLSBZb3UgY2FuIGFwcGx5IGZvciBzdHVkZW50IGFjY29tbW9kYXRpb25zIGhlcmU6IGh0dHBzOi8vc2RzLnN0dWRlbnRsaWZlLnVpb3dhLmVkdS9hY2NvbW1vZGF0aW9ucy9hcHBseSAoY2FsbCAzMTktMzM1LTE0NjIgb3IgZW1haWwgc2RzLWluZm9AdWlvd2EuZWR1IGlmIHF1ZXN0aW9ucyEpLgotIFdlIGFyZSBoYXBweSB0byBwcm92aWRlIHJlY29tbWVuZGVkIGFjY29tbW9kYXRpb25zIGFzIGEgcGFydCBvZiB0aGlzIGNvdXJzZSwgYnV0IHdlIG5lZWQgYSBsZXR0ZXIgZnJvbSBTRFMgcmVxdWVzdGluZyB0aGVtLgoKIyBJJ20gc3RydWdnbGluZyBhbmQgdGhpbmtpbmcgYWJvdXQgd2l0aGRyYXdpbmcuLi4KCi0gQWNhZGVtaWMgU3VwcG9ydCBhbmQgUmV0ZW50aW9uIE9mZmljZSAoQVNSTykgY2FuIHdvcmsgd2l0aCB5b3UgYW5kIHlvdXIgaW5zdHJ1Y3RvcnMgdG8gZ2VuZXJhdGUgYSByZXRlbnRpb24gcGxhbiB0byBzdXBwb3J0IHlvdXIgYWNhZGVtaWMgc3VjY2VzcyBhbmQgaGVscCB5b3UgZ2V0IGJhY2sgb24gdHJhY2suCi0gVGhlIEFTUk8gb2ZmaWNlIGNhbiBiZSByZWFjaGVkIGF0IHVjLXJldGVudGlvbkB1aW93YS5lZHUgb3IgKDMxOSkgMzM1LTE0OTcuCgojIEkgbmVlZCBoZWxwIHdpdGggYSBjcmlzaXMgb3IgZW1lcmdlbmN5IHNpdHVhdGlvbi4uLgoKLSBTdHVkZW50IENhcmUgJiBBc3Npc3RhbmNlIChodHRwczovL2Rvcy51aW93YS5lZHUvYXNzaXN0YW5jZS87IDMxOS0zMzUtMTE2MikgcHJvdmlkZXMgYXNzaXN0YW5jZSB0byBzdHVkZW50cyBleHBlcmllbmNpbmcgY3Jpc2lzIGFuZCBlbWVyZ2VuY3kgc2l0dWF0aW9ucy4KVGhlc2Ugc2l0dWF0aW9ucyBtYXkgaW5jbHVkZSBob3NwaXRhbGl6YXRpb24sIG1lZGljYWwgZW1lcmdlbmNpZXMgb3IgbG9uZy10ZXJtIGlsbG5lc3MsIG1lbnRhbCBoZWFsdGggY29uY2VybnMsIGNocm9uaWMgY29uZGl0aW9ucywgZGVhdGggb2YgYSBmYW1pbHkgbWVtYmVyLCBuYXR1cmFsIGRpc2FzdGVycywgb2ZmLWNhbXB1cyBsaXZpbmcgY29uY2VybnMsIGFuZCB1bmV4cGVjdGVkIGV2ZW50cyBvciBjaGFsbGVuZ2VzLgoKIyBJIG5lZWQgaGVscCB3aXRoIHRoaXMgY2xhc3MuLi4KClBsZWFzZSBjb21lIHRvIE9mZmljZSBIb3VycyB3aXRoIG9uZSBvZiB0aGUgVEFzIG9yIHdpdGggUHJvZmVzc29yIFBldGVyc2VuLgpJZiB5b3UgY2FuJ3QgYXR0ZW5kIG9mZmljZSBob3VycywgcGxlYXNlIGVtYWlsIGFueSBvZiB1cyB0byBhcnJhbmdlIGEgdGltZSB0byBtZWV0IGFuZCBkaXNjdXNzIGhvdyBiZXN0IHRvIGhlbHAgeW91IG1vdmUgZm9yd2FyZCBpbiB0aGUgY2xhc3MuCldlIGFyZSBhbGwgZWFnZXIgdG8gdGFsayB3aXRoIHlvdSBhbmQgaGVscCB5b3UgdG8gc3VjY2VlZCEK</div>
+<script type="text/javascript" src="includes/external-links.js"></script>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeSourceEmbed("help.Rmd");
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
