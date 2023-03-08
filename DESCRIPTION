@@ -1,0 +1,12 @@
+Package: placeholder
+Title: LabWiki
+Version: 1.0.0
+Imports:
+  rmarkdown,
+  blogdown,
+  remotes,
+  emo,
+  petersenlab
+Remotes:
+  hadley/emo,
+  DevPsyLab/petersenlab
