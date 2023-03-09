@@ -17,7 +17,7 @@ PSY 3330 – Childhood Psychopathology (Fall 2023)
 
 # Course Meeting Time and Place {#lectureTime}
 
-<mark>INSERT</mark>
+Monday, Wednesday, & Friday 10:30–11:20 a.m., 158 Van Allen (VAN)
 
 # Course Website {#website}
 
@@ -123,7 +123,7 @@ However, I do encourage you to collaborate with classmates <mark>to *prepare* fo
 
 ## Lecture {#lecture}
 
-We will meet for lectures on Mondays, Wednesdays, and Fridays from 10:30–11:20 a.m. in 158 Van Allen. 
+We will meet three times weekly for lectures, at the time and location described [above](#lectureTime).
 My powerpoint presentations for the lectures will be posted on the ICON course website no later than noon on the day before the lecture.
 <u>Please note:</u> powerpoint presentations are an outline of my points. 
 <u>It is your responsibility to take notes during class.</u>
@@ -158,17 +158,46 @@ Students should therefore expect to spend [6 additional hours per week](https://
 
 ## Quizzes {#quizzes}
 
-<mark>INSERT</mark>
+Six quizzes will be administered via the ICON website.
+Students <u>are</u> allowed to use their textbook and lecture notes on the quizzes.
+However, students <u>may not</u> work together on the quizzes.
+<u>Questions will be randomized and presented such that students must answer one question at a time (i.e., students may not go back to a previous question in the quiz).</u>
+Quizzes will consist of approximately 20–30 multiple choice or very short answer questions.
+While students may take the quiz at any time when it is available, students must complete the quiz within <u>2 hours</u>. 
+We will not accept late responses or multiple submissions.
+Your lowest quiz score will be dropped.
+We will not accept excused absences for quizzes because (a) you have a week to complete the quiz (and can submit it at any point during that week), and (b) we drop your lowest quiz score.
+Each quiz will be weighted the same in the final grade.
+
+Although students will have access to their course materials during the quiz, reading and advanced preparation will be necessary to do well on the quizzes.
+<u>Material for quiz questions will be taken from required readings (texts and articles) as well as from lecture material.</u>
+Quiz due dates and topics will be announced in class and via email and are listed below.
+
+|     Quiz #    |     Dates Available    |     Topics Covered                                                      |
+|---------------|------------------------|-------------------------------------------------------------------------|
+|     1         |     1/28 – 2/4         |     History/D&P Model, Theories & Causes, Research   with Children      |
+|     2         |     2/15 – 2/22        |     ADHD, ASD, Intellectual Disability, Specific Learning   Disorder    |
+|     3         |     3/15 – 3/29        |     CD, Anxiety, Depression, Bipolar                                    |
+|     4         |     4/3 – 4/10         |     Elimination, Eating, Substance-Related Disorders,   Self-Injury     |
+|     5         |     4/17 – 4/24        |     Maltreatment and Resilience                                         |
+|     6*        |     4/26 – 5/3         |     Levels of Analysis Articles, Prevention                             |
 
 ## Examinations {#exams}
 
-<mark>INSERT</mark>
+There will be 2 exams; one mid-term exam and one non-cumulative final exam.
+Each exam will emphasize information presented for the half of the class that precedes it.
+However, some integration of information across sections will be required for questions on the final exam.
+Exams will consist of short-answer and multiple choice questions based upon both readings (texts and articles) and the lecture material.
+Exam dates are listed below.
+
+**Exam 1 (Mid-Term Exam):	Wednesday, February 27, 2023 during class**\
+**Exam 2 (Final Exam): TBD during finals week** (the date, time, and location will be announced by the 5th week of class by the College of Liberal Arts and Sciences)
 
 ### Missing Exams {#missingExams}
 
 Students are allowed to make up exams that have been missed due to illness, mandatory religious observations, official University activities, or other unavoidable circumstances.
 Note: the format of the make-up exam may differ from the original exam.
-If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen <mark>or the TA</mark> must be contacted in advance whenever possible to schedule a make-up exam.
+If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen or the TA must be contacted in advance whenever possible to schedule a make-up exam.
 At the time of the make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness at the time of an exam; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by Professor Petersen.
 <u>In sum, to be eligible for a make-up exam, Professor Petersen or the TA must be contacted before the examination whenever possible, and you must bring an acceptable form of documentation for the excused absence to the make-up exam</u>.
 
