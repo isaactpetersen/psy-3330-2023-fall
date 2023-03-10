@@ -285,10 +285,11 @@ This will include the manuscript itself as well as a cover letter describing the
 # Grading {#grading}
 
 Final grades will be assigned at the end of the semester on the basis of your total percentage of points earned on quizzes, examinations, written assignments, and lecture attendance.
-Grades will be assigned on an absolute scale (see below).
+Grades will be assigned on an absolute scale (criterion-referenced grading; see below); course grades will not be curved.
+No extra-credit opportunities are available for this course.
 Please note: As a matter of fairness to all students, I assign grades based on performance and do not negotiate grades.
 Additionally, a penalty of 20% per day will be applied to all assignments turned in late.
-The following scale is used to determine final grades:
+Final grades will be assigned based on the following ranges:
 
 | Grade | Percent |
 |:------|:--------|
