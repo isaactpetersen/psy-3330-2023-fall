@@ -116,8 +116,8 @@ PDFs of these articles can be found on ICON.
 
 All students in CLAS courses are expected to abide by the [CLAS Code of Academic Honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
-Please note that collaboration with other classmates on <mark>quizzes and during exams</mark> is not permitted.
-However, I do encourage you to collaborate with classmates <mark>to *prepare* for exams (e.g., informal study groups)</mark>.
+Please note that collaboration with other classmates on quizzes and during exams is not permitted.
+However, I do encourage you to collaborate with classmates to *prepare* for exams (e.g., informal study groups).
 
 # Course Requirements and Policies {#requirements}
 
@@ -211,7 +211,7 @@ Each should be in essay form and carefully proofread for spelling and grammatica
 <u>Students may not work together on the critiques.</u>
 More information on how to structure the critiques will be provided in class.
 Note: Turnitin will be used via ICON to check for plagiarism of a fellow student and from the internet.
-**The critiques are due on Wednesday, January 23, 2019 and Friday, February 1, 2019 by 11:59 p.m.**
+**The critiques are due on Wednesday, January 23 and Friday, February 1 by 11:59 p.m.**
 
 ## Literature Review {#litReview}
 
@@ -241,7 +241,7 @@ The stages—and deadlines—are described below:
 You will first develop a topic and a set of keywords for your paper.
 For the review format, this involves generating a specific topic and keywords you will then use to conduct a literature search using PsycINFO or PubMed.
 We will discuss strategies for generating topics and keywords in class and examples will be provided.
-<u>You will turn in a summary of your research topic (1–2 sentences) and a list of keywords that will start your search by **Friday, February 8, 2019**</u> (*2.5% of literature review grade*).
+<u>You will turn in a summary of your research topic (1–2 sentences) and a list of keywords that will start your search by **Friday, February 8**</u> (*2.5% of literature review grade*).
 
 ### Stage 2: Identifying Articles and Understanding Findings {#stage2}
 
@@ -279,7 +279,7 @@ You will receive comments from the instructor and from your peer reviewer via em
 You will then use these comments to revise your paper.
 Your final paper must include a cover letter that details the changes you made to your draft based on feedback from me as well as from your peer reviewer.
 <u>Additionally, all students should plan to meet with the TA during the weeks of April 22 and/or April 29 to review their feedback and discuss plans for revision.</u>
-<u>The final draft of the literature review is due on **Friday, May 10, 2019 by 11:59 p.m.**</u> to ICON.
+<u>The final draft of the literature review is due on **Friday, May 10 by 11:59 p.m.**</u> to ICON.
 This will include the manuscript itself as well as a cover letter describing the changes made in response to comments from the instructor and the peer reviewer (*50% of literature review grade*).
 
 # Grading {#grading}
@@ -324,7 +324,7 @@ The relative contribution of each component to your final grade is as follows:
 | 1/16      | Developmental Psychopathology                         | M&W Ch. 2;               |                                |
 | 1/18      | Theories & Causes                                     | M&W Ch. 2; Article 2     |                                |
 | 1/21      | **No Class – MLK Day**                                |                          |                                |
-| 1/23      | Theories & Causes continued                           | M&W Ch. 2                | **Critique 1 Due (Article 2)** |
+| 1/23      | Theories & Causes                                     | M&W Ch. 2                | **Critique 1 Due (Article 2)** |
 | 1/25      | Research with Children                                | M&W Ch. 3; Article 3     |                                |
 | 1/28      | *Conducting a Literature Search*                      |                          | **Quiz 1 Opens**               |
 | 1/30      | DSM-5 Assessment & Diagnosis                          | M&W Ch. 4                |                                |
@@ -353,7 +353,7 @@ The relative contribution of each component to your final grade is as follows:
 | 3/29      | Elimination/Feeding Disorders                         | M&W Ch. 14               | **Quiz 3 Closes**              |
 | 4/1       | Adolescent Eating Disorders                           | M&W Ch. 14               |                                |
 | 4/3       | Adolescent Eating Disorders                           | Article 10               | **Quiz 4 Opens**               |
-| 4/5       | Substance Abuse and Risk-Taking                       | M&W Ch. 13 (pp. 467–474) | **1st Draft Due**              |
+| 4/5       | Substance Use and Risk-Taking                         | M&W Ch. 13 (pp. 467–474) | **1st Draft Due**              |
 | 4/8       | Suicide and Self-Injury                               | Article 11               |                                |
 | 4/10      | Child Maltreatment & Trauma                           | M&W Ch. 12               | **Quiz 4 Closes**              |
 | 4/12      | Child Maltreatment & Trauma                           | M&W Ch. 12               |                                |
