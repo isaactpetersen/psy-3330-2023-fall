@@ -376,6 +376,12 @@ The final examination date and time will be announced by the Registrar generally
 It is your responsibility to know the date, time, and place of the final exam.</u>
 According to Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams in one day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
 
+# Course Resources {#courseResources}
+
+There are many course resources available to help you succeed in the class, including:
+
+- <mark>INSERT</mark>
+
 # Drop Deadline for this Course {#dropDeadline}
 
 You may drop an individual course before the deadline; after this deadline you will need collegiate approval.
