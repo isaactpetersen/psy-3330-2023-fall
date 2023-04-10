@@ -307,6 +307,9 @@ Final grades will be assigned based on the following ranges:
 | D-    | 60–62   |
 | F     | 0–59    |
 
+I round up from .5 when determining final grades.
+For example, a course percent of 79.50 would receive a B-, whereas a course percent of 79.49 would receive a C+.
+
 The relative contribution of each component to your final grade is as follows:
 		
 - 5%    Lecture Attendance					
