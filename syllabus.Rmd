@@ -219,6 +219,7 @@ Note: Turnitin will be used via [ICON](https://icon.uiowa.edu) to check for plag
 You will be required to write a <u>literature review</u> on a topic related to child psychopathology.
 The topic of the paper is completely up to the student; the only requirement is that it must be relevant to psychopathology in children or adolescents.
 The paper must include a review and analysis of at least 5 empirical articles on the topic, published since 2000.
+You are encouraged to work with the [UI Writing Center](https://writingcenter.uiowa.edu) in revising your paper.
 
 ### Format
 
@@ -299,7 +300,8 @@ Next, you will write and turn in a complete draft of your paper.
 The systematic review should include both description of the empirical studies you've included as well as analysis, critique, and integration of findings.
 For this stage, you will also generate a thesis that describes the overall message of your review and you will work to demonstrate how each article is (or is not) supportive of your thesis.
 The goal of this stage is to develop your ideas and argument so that you can receive feedback.
-<u>For the [deadline](#deadlines), you will turn in your first draft of the paper. Note: you must turn in a complete draft of your paper—not an outline.</u>
+<u>For the [deadline](#deadlines), you will turn in your first draft of the paper.
+Note: you must turn in a complete draft of your paper—not an outline.</u>
 
 #### Stage 5: Give and Receiving Feedback {#stage5}
 
@@ -316,9 +318,9 @@ The instructor will then re-distribute the peer reviews to authors.
 You will receive comments from the instructor and from your peer reviewer via email.
 You will then use these comments to revise your paper.
 Your final paper must include a <u>cover letter</u> that details the changes you made to your draft based on feedback from the instructor as well as from your peer reviewer.
-<u>Additionally, all students should plan to meet with the TA during the weeks of April 22 and/or April 29 to review their feedback and discuss plans for revision.</u>
+<u>Additionally, students are encouraged to meet with the TA during the week of November 27 to review their feedback and discuss plans for revision.</u>
 <u>By the [deadline](#deadlines), you will submit the literature review</u>.
-This will include the manuscript itself as well as a cover letter describing the changes made in response to comments from the instructor and the peer reviewer.
+The literature review should include the manuscript itself as well as a cover letter describing the changes made in response to comments from the instructor and the peer reviewer.
 
 # Grading {#grading}
 
@@ -404,7 +406,7 @@ The relative contribution of each component to your final grade is as follows:
 | 11/27       | Divorce and Marital Conflict                          | Article 16               | **Peer Review Due**                    |
 | 11/29       | Peer Relationships & Bullying                         | Articles 17 & 18         | **Quiz 5 Closes**; **Receive Reviews** |
 | 12/1        | Neighborhood Factors                                  | Article 19               | **Quiz 6 Opens**                       |
-| 12/4        | Resilience                                            | Article 20               | **TA meetings complete**               |
+| 12/4        | Resilience                                            | Article 20               |                                        |
 | 12/6        | Prevention Science                                    | Article 21               |                                        |
 | 12/8        | Catch-Up/Final Exam Review in Class                   |                          | **Quiz 6 Closes**; **Final Paper Due** |
 | 12/8        | **FINAL PAPER DUE**                                   |                          |                                        |
@@ -421,7 +423,13 @@ According to Registrar's final exam policy, students <u>have a maximum of two we
 
 There are many course resources available to help you succeed in the class, including:
 
-- <mark>INSERT</mark>
+- the textbook and readings
+- lectures and slides
+- getting and reviewing missed notes from a peer
+- the UI [Writing Center](https://writingcenter.uiowa.edu)
+- TA office hours
+- instructor office hours
+- peer study groups
 
 # Drop Deadline for this Course {#dropDeadline}
 
