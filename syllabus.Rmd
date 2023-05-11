@@ -36,7 +36,7 @@ Professor Petersen\
 Office: 175 Psychological and Brain Sciences Building (PBSB)\
 E-mail: [isaac-t-petersen@uiowa.edu](mailto:isaac-t-petersen@uiowa.edu)\
 Office Phone: 467-1014\
-Student drop-in hours: \
+Student drop-in hours: Monday 11:20–12:20 & Thursday 2–4\
 Note: I'm here to help you learn and succeed.
 Please come to my office hours to ask questions about course material, assignments, exams, or professional development (career-related issues), for instance.
 I welcome you to discuss any concerns you might have about the class.
@@ -88,7 +88,7 @@ To provide you with a textbook with as low a cost as possible, you will be provi
 However, if you want to purchase a hardcopy of the textbook (for a higher cost) you may decline the eText via ICON Direct.
 
 In addition to the textbook, additional required readings for selected topics will include the following articles.
-PDFs of these articles can be found on ICON.
+PDFs of these articles can be found on [ICON](https://icon.uiowa.edu).
 
 1. Shea, S. E., Gordon, K., Hawkins, A., Kawchuk, J., & Smith, D. (2000). Pathology in the hundred acre wood: A neurodevelopmental perspective on A.A. Milne. *Canadian Medical Association Journal, 163*(12), 1557–1559. https://www.cmaj.ca/content/cmaj/163/12/1557.full.pdf (Just for fun! 😊)
 1. Ra, C. K., Cho, J., Stone, M. D., De La Cerda, J., Goldenson, N. I., Moroney, E., Tung, I., Lee, S. S., & Leventhal, A. M. (2018). Association of digital media use with subsequent symptoms of attention-deficit/hyperactivity disorder among adolescents. *JAMA, 320*(3), 255–263. https://doi.org/10.1001/jama.2018.8931
@@ -124,10 +124,10 @@ However, I do encourage you to collaborate with classmates to *prepare* for exam
 ## Lecture {#lecture}
 
 We will meet three times weekly for lectures, at the time and location described [above](#lectureTime).
-My powerpoint presentations for the lectures will be posted on the ICON course website no later than noon on the day before the lecture.
+My powerpoint presentations for the lectures will be posted on [ICON](https://icon.uiowa.edu) no later than noon on the day before the lecture (though I may continue to refine the slides up until the time of lecture).
 <u>Please note:</u> powerpoint presentations are an outline of my points. 
 <u>It is your responsibility to take notes during class.</u>
-If you have questions about the lecture notes or need clarification of any of the points, please ask in class or meet with the TA or me during office hours. 
+If you have questions about the lecture notes or need clarification of any of the points, please ask in class or meet with the TA or Professor Petersen during office hours. 
 If you miss class and/or need help catching up on the notes, please make an appointment with the TA.
 
 ## Attendance and Participation {#attendanceParticipation}
@@ -141,7 +141,7 @@ Poor lecture attendance is likely to affect the quality of students' work and su
 
 Students who miss <u>more than 3 lectures</u> due to participation in University activities be will asked to give the instructor a statement <u>before the absence</u> signed by a responsible official that specifies the dates and times the student will miss class.
 Authorized activities include participation in athletic teams, the marching band or pep band, debate teams, and other recognized University groups, as well as participation in University field trips, service with the National Guard, and jury duty.
-Absences due to illnesses or emergencies (that go over 3 lectures) must be documented with the University of Iowa Explanatory Statement for Absence from Class available from the registrar's website.
+Absences due to illnesses or emergencies (that go over 3 lectures) must be documented with the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and sent to within 48 hours of the absence.
 Per university policy, if a student will be absent <u>5 or more consecutive days and the absence is due to illness or other emergency</u>, please contact the Registrar Service Center at (319) 384-4300 or registrar@uiowa.edu.
 
 ## Readings {#readings}
@@ -158,12 +158,12 @@ Students should therefore expect to spend [6 additional hours per week](https://
 
 ## Quizzes {#quizzes}
 
-Six quizzes will be administered via the ICON website.
+Six quizzes will be administered via the [ICON](https://icon.uiowa.edu) website.
 Students <u>are</u> allowed to use their textbook and lecture notes on the quizzes.
 However, students <u>may not</u> work together on the quizzes.
 <u>Questions will be randomized and presented such that students must answer one question at a time (i.e., students may not go back to a previous question in the quiz).</u>
 Quizzes will consist of approximately 20–30 multiple choice or very short answer questions.
-While students may take the quiz at any time when it is available, students must complete the quiz within <u>2 hours</u>. 
+Although students may take the quiz at any time when it is available, students must complete the quiz within <u>2 hours</u>. 
 We will not accept late responses or multiple submissions.
 Your lowest quiz score will be dropped.
 We will not accept excused absences for quizzes because (a) you have a week to complete the quiz (and can submit it at any point during that week), and (b) we drop your lowest quiz score.
@@ -172,15 +172,16 @@ Each quiz will be weighted the same in the final grade.
 Although students will have access to their course materials during the quiz, reading and advanced preparation will be necessary to do well on the quizzes.
 <u>Material for quiz questions will be taken from required readings (texts and articles) as well as from lecture material.</u>
 Quiz due dates and topics will be announced in class and via email and are listed below.
+All quizzes should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. on the due date.
 
-|     Quiz #    |     Dates Available    |     Topics Covered                                                      |
-|---------------|------------------------|-------------------------------------------------------------------------|
-|     1         |     1/28 – 2/4         |     History/D&P Model, Theories & Causes, Research   with Children      |
-|     2         |     2/15 – 2/22        |     ADHD, ASD, Intellectual Disability, Specific Learning   Disorder    |
-|     3         |     3/15 – 3/29        |     CD, Anxiety, Depression, Bipolar                                    |
-|     4         |     4/3 – 4/10         |     Elimination, Eating, Substance-Related Disorders,   Self-Injury     |
-|     5         |     4/17 – 4/24        |     Maltreatment and Resilience                                         |
-|     6*        |     4/26 – 5/3         |     Levels of Analysis Articles, Prevention                             |
+| Quiz # | Dates Available | Topics Covered                                                 |
+|--------|-----------------|----------------------------------------------------------------|
+| 1      | 9/4 – 9/11      | History/D&P Model, Theories & Causes, Research with Children   |
+| 2      | 9/22 – 9/29     | ADHD, ASD, Intellectual Disability, Specific Learning Disorder |
+| 3      | 10/20 – 10/27   | CD, Anxiety, Depression, Bipolar                               |
+| 4      | 11/1 – 11/8     | Elimination, Eating, Substance-Related Disorders, Self-Injury  |
+| 5      | 11/15 – 11/29   | Maltreatment and Resilience                                    |
+| 6      | 12/1 – 12/8     | Levels of Analysis Articles, Prevention                        |
 
 ## Examinations {#exams}
 
@@ -190,7 +191,7 @@ However, some integration of information across sections will be required for qu
 Exams will consist of short-answer and multiple choice questions based upon both readings (texts and articles) and the lecture material.
 Exam dates are listed below.
 
-**Exam 1 (Mid-Term Exam):	Wednesday, February 27, 2023 during class**\
+**Exam 1 (Mid-Term Exam):	Wednesday, October 4, 2023 during class**\
 **Exam 2 (Final Exam): TBD during finals week** (the date, time, and location will be announced by the 5th week of class by the College of Liberal Arts and Sciences)
 
 ### Missing Exams {#missingExams}
@@ -198,93 +199,130 @@ Exam dates are listed below.
 Students are allowed to make up exams that have been missed due to illness, mandatory religious observations, official University activities, or other unavoidable circumstances.
 Note: the format of the make-up exam may differ from the original exam.
 If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen or the TA must be contacted in advance whenever possible to schedule a make-up exam.
-At the time of the make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness at the time of an exam; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by Professor Petersen.
-<u>In sum, to be eligible for a make-up exam, Professor Petersen or the TA must be contacted before the examination whenever possible, and you must bring an acceptable form of documentation for the excused absence to the make-up exam</u>.
+In order to take a make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and must be approved by Professor Petersen.
+<u>In sum, to be eligible for a make-up exam, Professor Petersen or the TA must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen or the TA</u>.
 
 ## Literature Critiques {#litCritiques}
 
 You will be required to complete two literature critique assignments.
 These assignments are designed to help you learn to critically analyze original source articles in written form.
 Both assignments involve providing a critique of a research article (Ra et al., 2018 – Article 2, and Christakis et al., 2004 – Article #3).
-Both papers should be 2-3 pages long (double-spaced, 12-point font) and will be turned in via ICON.
+Both papers should be 2–3 pages long (double-spaced, APA format, 12-point Times New Roman font) and will be turned in via [ICON](https://icon.uiowa.edu).
 Each should be in essay form and carefully proofread for spelling and grammatical errors.
 <u>Students may not work together on the critiques.</u>
 More information on how to structure the critiques will be provided in class.
-Note: Turnitin will be used via ICON to check for plagiarism of a fellow student and from the internet.
+Note: Turnitin will be used via [ICON](https://icon.uiowa.edu) to check for plagiarism of a fellow student and from the internet.
 **The critiques are due on Wednesday, January 23 and Friday, February 1 by 11:59 p.m.**
 
 ## Literature Review {#litReview}
 
-You will be required to write a <u>10–12 page literature review</u> on a topic related to child psychopathology.
+You will be required to write a <u>literature review</u> on a topic related to child psychopathology.
 The topic of the paper is completely up to the student; the only requirement is that it must be relevant to psychopathology in children or adolescents.
-The paper must include a systematic review and analysis of at least 5 empirical articles on the topic, published since 2000.
-This paper will be completed in 5 stages, all uploaded to ICON:
+The paper must include a review and analysis of at least 5 empirical articles on the topic, published since 2000.
 
-1. [Generating a topic](#stage1)
-1. [Identifying articles and understanding findings](#stage2)
-1. [Writing a complete draft](#stage3)
-1. [Giving and receiving feedback](#stage4)
-1. [Incorporating feedback and polishing writing](#stage5)
+### Format
+
+The paper should have five sections:
+
+1. Cover Letter, described [here](#stage6)
+1. Title Page
+1. Abstract
+1. Main body
+1. References
+
+The main body of the paper should be <u>10–12 pages</u>, excluding the cover letter, title page, abstract, and references.
+The text should be double-spaced, in [APA format](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html), and in 12-point Times New Roman font.
+For sample papers in APA format, see [here](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html).
+
+### Stages
+
+#### Overview
+
+This paper will be completed in 6 stages, all uploaded to [ICON](https://icon.uiowa.edu):
+
+1. [Generate a topic](#stage1)
+1. [Identify articles](#stage2)
+1. [Understand findings from articles](#stage3)
+1. [Write a complete draft](#stage4)
+1. [Give and receive feedback](#stage5)
+1. [Incorporate feedback and polish writing](#stage6)
 
 The goals of this project are for each student to produce a thoughtful paper that describes an aspect of this course that captured their interest and to gain more experience with scientific writing.
 Each stage of the process will be discussed in class, so attendance is critical.
 Additionally, grading rubrics for each stage will be posted so that students understand the basis for evaluation of each stage of the assignment.
 Successful completion of this assignment requires students to adhere closely to the deadlines outlined.
 <u>For this reason, substantial penalties will be applied to all late work (20% off final grade for each day the assignment is late).
-Further, to make sure the peer review process for first drafts is successful, any first drafts submitted after the deadline of Friday, April 5 will receive a zero and will not receive a peer review (the student will still receive instructor feedback).
+Further, to make sure the peer review process for first drafts is successful, any first drafts submitted after the deadline of Friday, November 3 will receive a zero and will not receive a peer review (the student will still receive instructor feedback).
 If you have concerns about meeting one of the literature review deadlines, please contact Professor Petesen or the TA as soon as possible to discuss.</u>
+All assignments should be uploaded to [ICON](https://icon.uiowa.edu) by 11:59 p.m. on the due date.
 
 The stages—and deadlines—are described below:
 
-### Stage 1: Generating a Topic {#stage1}
+#### Deadlines {#deadlines}
+
+The workflow of the literature review stages, their respective percentages in the total literature review grade, and relevant due dates are listed below.
+
+| Stage | Assignment Description | Percent | Due Date |
+|-------|------------------------|---------|----------|
+| 1     | **Develop a topic description (2 sentences) and 3–5 keywords** you will then use to conduct a literature search using [Google Scholar](http://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](http://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](http://purl.lib.uiowa.edu/nlm/pubmed). | 2.5% | 9/15  |
+| 2     | **Identify and generate a list of 5 empirical articles** that you will include in your review based on your searches of [Google Scholar](http://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](http://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](http://purl.lib.uiowa.edu/nlm/pubmed).    | 2.5% | 9/25  |
+| 3     | **Write brief summaries** of each of the 5 empirical articles that includes clear descriptions of both the methodology and relevant findings. | 10%  | 10/16 |
+| 4     | **Compose a complete first draft** of the review that includes an introduction with thesis, description, critique, and integration of the 5 empirical studies. | 25%  | 11/3  |
+| 5a    | Peer reviews are assigned. | –  | 11/6 |
+| 5b    | **Give feedback** by providing anonymous peer review of another student's paper. | 10%  | 11/27 |
+| 5c    | **Receive feedback** from peer and from instructor. | – | 11/29 |
+| 6     | **Incorporate feedback and produce a final document.** | 50%  | 12/8  |
+
+#### Stage 1: Generate a Topic {#stage1}
 
 You will first develop a topic and a set of keywords for your paper.
-For the review format, this involves generating a specific topic and keywords you will then use to conduct a literature search using PsycINFO or PubMed.
-We will discuss strategies for generating topics and keywords in class and examples will be provided.
-<u>You will turn in a summary of your research topic (1–2 sentences) and a list of keywords that will start your search by **Friday, February 8**</u> (*2.5% of literature review grade*).
+For the review format, this involves generating a specific topic and keywords you will then use to conduct a literature search using [Google Scholar](http://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](http://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](http://purl.lib.uiowa.edu/nlm/pubmed).
+We will discuss strategies for generating topics and keywords in class, and examples will be provided.
+<u>For the [deadline](#deadlines), you will turn in a summary of your research topic (1–2 sentences) and a list of keywords that will start your literature search</u>.
 
-### Stage 2: Identifying Articles and Understanding Findings {#stage2}
+#### Stage 2: Identify Articles {#stage2}
 
 After your topic has been approved, you will then conduct a search to identify the articles for your paper.
 You will search PsychINFO or PubMed and identify a minimum of five empirical articles that are all relevant to your topic.
 As we will discuss in class, it is important to define your topic carefully so that all of your identified articles are addressing common components.
-<u>You will turn in your list of articles by **Monday, February 18**</u> (*2.5% of literature review grade*). 
+<u>For the [deadline](#deadlines), you will turn in your list of articles</u>. 
+
+#### Stage 3: Understand Findings from Articles {#stage3}
 
 Once you have identified the five papers you wish to write about, you will then produce brief summaries of each article that include a description of the methods employed by the researchers and their basic findings (2–4 paragraphs per article for each of your five articles).
 You will also include your reference list, in APA style.
-<u>The article summaries are due by **Monday, March 11**</u> (*10% of literature review grade*).
+<u>For the [deadline](#deadlines), you will turn in your article summaries</u>.
 
-### Stage 3: Writing a Complete Draft {#stage3}
+#### Stage 4: Write a Complete Draft {#stage4}
 
 Next, you will write and turn in a complete draft of your paper.
 The systematic review should include both description of the empirical studies you've included as well as analysis, critique, and integration of findings.
 For this stage, you will also generate a thesis that describes the overall message of your review and you will work to demonstrate how each article is (or is not) supportive of your thesis.
 The goal of this stage is to develop your ideas and argument so that you can receive feedback.
-<u>Note: you must turn in a complete draft of your paper—not an outline.
-The first draft is due **Friday, April 5**.</u>
-For this portion of the assignment, you will upload an electronic version to your ICON dropbox (*25% of literature review grade*).
+<u>For the [deadline](#deadlines), you will turn in your first draft of the paper. Note: you must turn in a complete draft of your paper—not an outline.</u>
 
-### Stage 4: Giving and Receiving Feedback {#stage4}
+#### Stage 5: Give and Receiving Feedback {#stage5}
 
 Following submission of your first draft, all students will receive detailed feedback from the instructor, which will include critique of content, organization, and argument.
 Additionally each student will complete an anonymous peer review of a fellow student's paper (your draft will also be peer reviewed).
 Peer reviews will be blinded and only I (the instructor) will know which papers belong to which students.
-Reviews will be assigned in class on **Monday, April 8.**
+Reviews will be assigned in class.
 More details about providing an appropriate review and the formatting will be provided in class.
-<u>Peer reviews are then due **Monday, April 22**</u> and will be re-distributed to authors by Wednesday, April 24 (*10% of literature review grade*).  
+<u>For the [deadline](#deadlines), you will turn in your review of the peer's paper.</u>
+The instructor will then re-distribute the peer reviews to authors.  
 
-### Stage 5: Incorporating Feedback and Polishing Writing {#stage5}
+#### Stage 6: Incorporating Feedback and Polishing Writing {#stage6}
 
-You will receive comments from the instructor and from your peer reviewer via email on **Monday, April 22**.
+You will receive comments from the instructor and from your peer reviewer via email.
 You will then use these comments to revise your paper.
-Your final paper must include a cover letter that details the changes you made to your draft based on feedback from me as well as from your peer reviewer.
+Your final paper must include a <u>cover letter</u> that details the changes you made to your draft based on feedback from the instructor as well as from your peer reviewer.
 <u>Additionally, all students should plan to meet with the TA during the weeks of April 22 and/or April 29 to review their feedback and discuss plans for revision.</u>
-<u>The final draft of the literature review is due on **Friday, May 10 by 11:59 p.m.**</u> to ICON.
-This will include the manuscript itself as well as a cover letter describing the changes made in response to comments from the instructor and the peer reviewer (*50% of literature review grade*).
+<u>By the [deadline](#deadlines), you will submit the literature review</u>.
+This will include the manuscript itself as well as a cover letter describing the changes made in response to comments from the instructor and the peer reviewer.
 
 # Grading {#grading}
 
-Final grades will be assigned at the end of the semester on the basis of your total percentage of points earned on quizzes, examinations, written assignments, and lecture attendance.
+Final grades will be assigned at the end of the semester on the basis of your total percentage of points earned on quizzes, examinations, written assignments, and lecture attendance, as detailed below.
 Grades will be assigned on an absolute scale (criterion-referenced grading; see below); course grades will not be curved.
 No extra-credit opportunities are available for this course.
 Please note: As a matter of fairness to all students, I assign grades based on performance and do not negotiate grades.
@@ -321,56 +359,56 @@ The relative contribution of each component to your final grade is as follows:
 
 # Tentative Course Outline (exam dates fixed) {#outline}
 
-| Date      | Topic                                                 | Reading                  | Assignment Due                 |
-|:----------|:------------------------------------------------------|:-------------------------|:-------------------------------|
-| 1/14      | History of Child Psychopathology                      | M&W Ch. 1; Article 1     |                                |
-| 1/16      | Developmental Psychopathology                         | M&W Ch. 2;               |                                |
-| 1/18      | Theories & Causes                                     | M&W Ch. 2; Article 2     |                                |
-| 1/21      | **No Class – MLK Day**                                |                          |                                |
-| 1/23      | Theories & Causes                                     | M&W Ch. 2                | **Critique 1 Due (Article 2)** |
-| 1/25      | Research with Children                                | M&W Ch. 3; Article 3     |                                |
-| 1/28      | *Conducting a Literature Search*                      |                          | **Quiz 1 Opens**               |
-| 1/30      | DSM-5 Assessment & Diagnosis                          | M&W Ch. 4                |                                |
-| 2/1       | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8                | **Critique 2 Due (Article 3)** |
-| 2/4       | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8                | **Quiz 1 Closes**              |
-| 2/6       | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8; Article 4     |                                |
-| 2/8       | Autism Spectrum Disorders                             | M&W Ch. 6                | **Topic and Keywords Due**     |
-| 2/11      | Autism Spectrum Disorders                             | M&W Ch. 6                |                                |
-| 2/13      | Autism Spectrum Disorders/*Writing Article Summaries* | M&W Ch. 6   Article 5    |                                |
-| 2/15      | **Research Day – Work on Paper**                      |                          | **Quiz 2 Opens**               |
-| 2/18      | Intellectual Disability                               | M&W Ch. 5                | **List of Articles Due**       |
-| 2/20      | Intellectual Disability/Learning Disorders            | M&W Ch. 5                |                                |
-| 2/22      | Learning Disorders                                    | M&W Ch. 7 (pp. 208–226)  | **Quiz 2 Closes**              |
-| 2/25      | Catch-Up and Exam Review                              |                          |                                |
-| 2/27      | **MIDTERM EXAM IN CLASS**                             |                          |                                |
-| 3/1       | Youth Conduct Problems                                | M&W Ch. 9                |                                |
-| 3/4       | Youth Conduct Problems                                | M&W Ch. 9; Article 6     |                                |
-| 3/6       | *Writing a Literature Review*                         | Article 7                |                                |
-| 3/8       | Child Anxiety Disorders                               | M&W Ch. 11               |                                |
-| 3/11      | Child Anxiety Disorders                               | M&W Ch. 11               | **Article Summaries Due**      |
-| 3/13      | Child Anxiety Disorders                               | M&W Ch. 11; Article 8    |                                |
-| 3/15      | Youth Depression                                      | M&W Ch. 10               | **Quiz 3 Opens**               |
-| 3/16–3/24 | **SPRING BREAK – NO CLASSES**                         |                          |                                |
-| 3/25      | Youth Depression                                      | M&W Ch. 10               |                                |
-| 3/27      | Bipolar Disorder/DMDD                                 | M&W Ch. 10; Article 9    |                                |
-| 3/29      | Elimination/Feeding Disorders                         | M&W Ch. 14               | **Quiz 3 Closes**              |
-| 4/1       | Adolescent Eating Disorders                           | M&W Ch. 14               |                                |
-| 4/3       | Adolescent Eating Disorders                           | Article 10               | **Quiz 4 Opens**               |
-| 4/5       | Substance Use and Risk-Taking                         | M&W Ch. 13 (pp. 467–474) | **1st Draft Due**              |
-| 4/8       | Suicide and Self-Injury                               | Article 11               |                                |
-| 4/10      | Child Maltreatment & Trauma                           | M&W Ch. 12               | **Quiz 4 Closes**              |
-| 4/12      | Child Maltreatment & Trauma                           | M&W Ch. 12               |                                |
-| 4/15      | Child Maltreatment & Trauma                           | Articles 12 & 13         |                                |
-| 4/17      | Individual Differences                                | Article 14               | **Quiz 5 Opens**               |
-| 4/19      | Parenting                                             | Article 15               |                                |
-| 4/22      | Divorce and Marital Conflict                          | Article 16               | **Peer Review Due**            |
-| 4/24      | Peer Relationships & Bullying                         | Articles 17 & 18         | **Quiz 5 Closes**              |
-| 4/26      | Neighborhood Factors                                  | Article 19               | **Quiz 6 Opens**               |
-| 4/29      | Resilience                                            | Article 20               | **TA meetings complete**       |
-| 5/1       | Prevention Science                                    | Article 21               |                                |
-| 5/3       | Catch-Up/Final Exam Review in Class                   |                          | **Quiz 6 Closes**              |
-| 5/10      | **FINAL PAPER DUE BY 5PM**                            |                          |                                |
-|           | **FINAL EXAM TBD (Week of 5/6–5/10)**                 |                          |                                |
+| Date        | Topic                                                 | Reading                  | Assignment Due                         |
+|:------------|:------------------------------------------------------|:-------------------------|:---------------------------------------|
+| 8/21        | History of Child Psychopathology                      | M&W Ch. 1; Article 1     |                                        |
+| 8/23        | Developmental Psychopathology                         | M&W Ch. 2;               |                                        |
+| 8/25        | Theories & Causes                                     | M&W Ch. 2; Article 2     |                                        |
+| 8/28        | Theories & Causes                                     | M&W Ch. 2                | **Critique 1 Due (Article 2)**         |
+| 8/30        | Research with Children                                | M&W Ch. 3; Article 3     |                                        |
+| 9/1         | *Conducting a Literature Search*                      |                          |                                        |
+| 9/4         | **No Class – Labor Day**                              |                          | **Quiz 1 Opens**                       |
+| 9/6         | DSM-5 Assessment & Diagnosis                          | M&W Ch. 4                |                                        |
+| 9/8         | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8                | **Critique 2 Due (Article 3)**         |
+| 9/11        | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8                | **Quiz 1 Closes**                      |
+| 9/13        | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8; Article 4     |                                        |
+| 9/15        | Autism Spectrum Disorders                             | M&W Ch. 6                | **Topic and Keywords Due**             |
+| 9/18        | Autism Spectrum Disorders                             | M&W Ch. 6                |                                        |
+| 9/20        | Autism Spectrum Disorders/*Writing Article Summaries* | M&W Ch. 6   Article 5    |                                        |
+| 9/22        | **Research Day – Work on Paper**                      |                          | **Quiz 2 Opens**                       |
+| 9/25        | Intellectual Disability                               | M&W Ch. 5                | **List of Articles Due**               |
+| 9/27        | Intellectual Disability/Learning Disorders            | M&W Ch. 5                |                                        |
+| 9/29        | Learning Disorders                                    | M&W Ch. 7 (pp. 208–226)  | **Quiz 2 Closes**                      |
+| 10/2        | Catch-Up and Exam Review                              |                          |                                        |
+| 10/4        | **MIDTERM EXAM IN CLASS**                             |                          |                                        |
+| 10/6        | Youth Conduct Problems                                | M&W Ch. 9                |                                        |
+| 10/9        | Youth Conduct Problems                                | M&W Ch. 9; Article 6     |                                        |
+| 10/11       | *Writing a Literature Review*                         | Article 7                |                                        |
+| 10/13       | Child Anxiety Disorders                               | M&W Ch. 11               |                                        |
+| 10/16       | Child Anxiety Disorders                               | M&W Ch. 11               | **Article Summaries Due**              |
+| 10/18       | Child Anxiety Disorders                               | M&W Ch. 11; Article 8    |                                        |
+| 10/20       | Youth Depression                                      | M&W Ch. 10               | **Quiz 3 Opens**                       |
+| 10/23       | Youth Depression                                      | M&W Ch. 10               |                                        |
+| 10/25       | Bipolar Disorder/DMDD                                 | M&W Ch. 10; Article 9    |                                        |
+| 10/27       | Elimination/Feeding Disorders                         | M&W Ch. 14               | **Quiz 3 Closes**                      |
+| 10/30       | Adolescent Eating Disorders                           | M&W Ch. 14               |                                        |
+| 11/1        | Adolescent Eating Disorders                           | Article 10               | **Quiz 4 Opens**                       |
+| 11/3        | Substance Use and Risk-Taking                         | M&W Ch. 13 (pp. 467–474) | **1st Draft Due**                      |
+| 11/6        | Suicide and Self-Injury                               | Article 11               | **Peer Reviews Assigned**              |
+| 11/8        | Child Maltreatment & Trauma                           | M&W Ch. 12               | **Quiz 4 Closes**                      |
+| 11/10       | Child Maltreatment & Trauma                           | M&W Ch. 12               |                                        |
+| 11/13       | Child Maltreatment & Trauma                           | Articles 12 & 13         |                                        |
+| 11/15       | Individual Differences                                | Article 14               | **Quiz 5 Opens**                       |
+| 11/17       | Parenting                                             | Article 15               |                                        |
+| 11/20–11/24 | **FALL BREAK – NO CLASSES**                           |                          |                                        |
+| 11/27       | Divorce and Marital Conflict                          | Article 16               | **Peer Review Due**                    |
+| 11/29       | Peer Relationships & Bullying                         | Articles 17 & 18         | **Quiz 5 Closes**; **Receive Reviews** |
+| 12/1        | Neighborhood Factors                                  | Article 19               | **Quiz 6 Opens**                       |
+| 12/4        | Resilience                                            | Article 20               | **TA meetings complete**               |
+| 12/6        | Prevention Science                                    | Article 21               |                                        |
+| 12/8        | Catch-Up/Final Exam Review in Class                   |                          | **Quiz 6 Closes**; **Final Paper Due** |
+| 12/8        | **FINAL PAPER DUE**                                   |                          |                                        |
+|             | **FINAL EXAM TBD (Week of 12/11–12/15)**              |                          |                                        |
 
 # Date and Time of the Final Exam {#finalExam}
 
@@ -421,7 +459,7 @@ For up-to-date information throughout the semester, please refer to https://coro
 - [Attendance and Absences](https://clas.uiowa.edu/faculty/student-attendance-and-absences)\
 University regulations require that students be allowed to make up examinations which have been missed due to illness or other unavoidable circumstances.
 See the section above on "[Missing Exams](#missingExams)" for the documentation necessary for an absence to be excused and to be eligible to take a make-up exam.
-Students with mandatory religious obligations or UI authorized activities must discuss their absences with me or the TA as soon as possible.
+Students with mandatory religious obligations or UI authorized activities must discuss their absences with the instructor or TA as soon as possible.
 Religious obligations must be communicated within the first three weeks of classes.
 - [Exam Policies](https://clas.uiowa.edu/faculty/examination-policies-and-best-practices)
 
@@ -474,4 +512,4 @@ If you feel that you or someone you know may be struggling with an academic, emo
 # Disclaimer {#disclaimer}
 
 This syllabus is subject to change.
-Any changes will be discussed in class, via email, and/or on ICON.
+Any changes will be discussed in class, via email, and/or on [ICON](https://icon.uiowa.edu).
