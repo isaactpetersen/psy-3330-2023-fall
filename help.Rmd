@@ -11,7 +11,8 @@ knitr::opts_chunk$set(
 
 # Asking for Help
 
-Everyone needs help sometimes—your classmates, your TAs, and your professor. And YOU.
+Everyone needs help sometimes—your classmates, your TAs, and your professor.
+And YOU.
 We know that it can be anxiety-provoking to recognize that you need help and to ask for it.
 And we also know that getting the help we need can make a big difference, both inside and outside the classroom.
 So, we encourage you to reach out <u>quickly</u> for the help and support that you need!
@@ -19,24 +20,24 @@ So, we encourage you to reach out <u>quickly</u> for the help and support that y
 # I need help with my mental or physical health...
 
 - <u>If you or someone you know is contemplating suicide</u>, either call the Suicide and Crisis Lifeline at 988, or call 911.
-- University Counseling Service: https://counseling.uiowa.edu/, or 319-335-7294
-- Student Health: https://studentlife.uiowa.edu/departments/student-health/, or 319-335-8394
-- Student Wellness: https://studentwellness.uiowa.edu/, or 319-335-8394
+- [University Counseling Service](https://counseling.uiowa.edu): https://counseling.uiowa.edu, or 319-335-7294
+- [Student Health](https://studentlife.uiowa.edu/departments/student-health): https://studentlife.uiowa.edu/departments/student-health, or 319-335-8394
+- [Student Wellness](https://studentwellness.uiowa.edu): https://studentwellness.uiowa.edu, or 319-335-8394
 
 # I need help with academic accommodations...
 
-- Student Disability Services (SDS) is available to help determine what academic accommodations may be available to you (e.g., notes, extra time for exams, scheduling accommodations, etc.).
+- [Student Disability Services](https://sds.studentlife.uiowa.edu) (SDS; https://sds.studentlife.uiowa.edu)is available to help determine what academic accommodations may be available to you (e.g., notes, extra time for exams, scheduling accommodations, etc.).
 - You can apply for student accommodations here: https://sds.studentlife.uiowa.edu/accommodations/apply (call 319-335-1462 or email sds-info@uiowa.edu if questions!).
 - We are happy to provide recommended accommodations as a part of this course, but we need a letter from SDS requesting them.
 
 # I'm struggling and thinking about withdrawing...
 
-- Academic Support and Retention Office (ASRO) can work with you and your instructors to generate a retention plan to support your academic success and help you get back on track.
-- The ASRO office can be reached at uc-retention@uiowa.edu or (319) 335-1497.
+- The [Academic Support and Retention](https://asr.uiowa.edu) (ASR; https://asr.uiowa.edu) office can work with you and your instructors to generate a retention plan to support your academic success and help you get back on track.
+- The [ASR](https://asr.uiowa.edu) office can be reached at uc-retention@uiowa.edu or (319) 335-1497.
 
 # I need help with a crisis or emergency situation...
 
-- Student Care & Assistance (https://dos.uiowa.edu/assistance/; 319-335-1162) provides assistance to students experiencing crisis and emergency situations.
+- [Student Care & Assistance](https://dos.uiowa.edu/assistance) (https://dos.uiowa.edu/assistance; 319-335-1162) provides assistance to students experiencing crisis and emergency situations.
 These situations may include hospitalization, medical emergencies or long-term illness, mental health concerns, chronic conditions, death of a family member, natural disasters, off-campus living concerns, and unexpected events or challenges.
 
 # I need help with this class...
