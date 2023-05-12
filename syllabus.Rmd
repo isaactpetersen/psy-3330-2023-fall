@@ -333,7 +333,7 @@ Final grades will be assigned based on the following ranges:
 
 | Grade | Percent |
 |:------|:--------|
-| A+    | 97–100% | 
+| A+    | 97–100% |
 | A     | 93–96   |
 | A-    | 90–92   |
 | B+    | 87–89   |
@@ -351,13 +351,13 @@ I round up from .5 when determining final grades.
 For example, a course percent of 79.50 would receive a B-, whereas a course percent of 79.49 would receive a C+.
 
 The relative contribution of each component to your final grade is as follows:
-		
-- 5%    Lecture Attendance					
+
+- 5%    Lecture Attendance
 - 10%   Literature Critiques (2 at 5% each)
-- 20%   Exam 1 (Mid-Term)					
-- 20%   Exam 2 (Final)						
+- 20%   Exam 1 (Mid-Term)
+- 20%   Exam 2 (Final)
 - 15%   Quizzes (5 quizzes after dropping lowest quiz score, 3% each)
-- 30%   Literature Review					
+- 30%   Literature Review
 
 # Tentative Course Outline (exam dates fixed) {#outline}
 
@@ -471,7 +471,7 @@ Students with mandatory religious obligations or UI authorized activities must d
 Religious obligations must be communicated within the first three weeks of classes.
 - [Exam Policies](https://clas.uiowa.edu/faculty/examination-policies-and-best-practices)
 
-## Other Expectations of Student Performance
+## Other Expectations of Student Performance {#otherExpectations}
 
 Students have the right to a distraction-free learning environment.
 You have the responsibility to help create such a classroom environment.
