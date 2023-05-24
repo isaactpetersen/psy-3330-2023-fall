@@ -370,7 +370,7 @@ The relative contribution of each component to your final grade is as follows:
 | 8/30        | Research with Children                                | M&W Ch. 3; Article 3     |                                        |
 | 9/1         | *Conducting a Literature Search*                      |                          |                                        |
 | 9/4         | **No Class – Labor Day**                              |                          | **Quiz 1 Opens**                       |
-| 9/6         | DSM-5 Assessment & Diagnosis                          | M&W Ch. 4                |                                        |
+| 9/6         | DSM Assessment & Diagnosis                            | M&W Ch. 4                |                                        |
 | 9/8         | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8                | **Critique 2 Due (Article 3)**         |
 | 9/11        | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8                | **Quiz 1 Closes**                      |
 | 9/13        | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8; Article 4     |                                        |
