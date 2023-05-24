@@ -364,7 +364,7 @@ The relative contribution of each component to your final grade is as follows:
 | Date        | Topic                                                 | Reading                  | Assignment Due                         |
 |:------------|:------------------------------------------------------|:-------------------------|:---------------------------------------|
 | 8/21        | History of Child Psychopathology                      | M&W Ch. 1; Article 1     |                                        |
-| 8/23        | Developmental Psychopathology                         | M&W Ch. 2;               |                                        |
+| 8/23        | Developmental Psychopathology                         | M&W Ch. 2                |                                        |
 | 8/25        | Theories & Causes                                     | M&W Ch. 2; Article 2     |                                        |
 | 8/28        | Theories & Causes                                     | M&W Ch. 2                | **Critique 1 Due (Article 2)**         |
 | 8/30        | Research with Children                                | M&W Ch. 3; Article 3     |                                        |
