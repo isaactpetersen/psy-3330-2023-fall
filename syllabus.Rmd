@@ -395,18 +395,18 @@ The relative contribution of each component to your final grade is as follows:
 | 9/29        | Learning Disorders                                    | M&W Ch. 7 (pp. 208–226)  | **Quiz 2 Closes**                      |
 | 10/2        | Catch-Up and Exam Review                              |                          |                                        |
 | 10/4        | **MIDTERM EXAM IN CLASS**                             |                          |                                        |
-| 10/6        | Youth Conduct Problems                                | M&W Ch. 9                |                                        |
-| 10/9        | Youth Conduct Problems                                | M&W Ch. 9; Article 6     |                                        |
+| 10/6        | Conduct Problems                                      | M&W Ch. 9                |                                        |
+| 10/9        | Conduct Problems                                      | M&W Ch. 9; Article 6     |                                        |
 | 10/11       | *Writing a Literature Review*                         | Article 7                |                                        |
-| 10/13       | Child Anxiety Disorders                               | M&W Ch. 11               |                                        |
-| 10/16       | Child Anxiety Disorders                               | M&W Ch. 11               | **Article Summaries Due**              |
-| 10/18       | Child Anxiety Disorders                               | M&W Ch. 11; Article 8    |                                        |
-| 10/20       | Youth Depression                                      | M&W Ch. 10               | **Quiz 3 Opens**                       |
-| 10/23       | Youth Depression                                      | M&W Ch. 10               |                                        |
+| 10/13       | Anxiety Disorders                                     | M&W Ch. 11               |                                        |
+| 10/16       | Anxiety Disorders                                     | M&W Ch. 11               | **Article Summaries Due**              |
+| 10/18       | Anxiety Disorders                                     | M&W Ch. 11; Article 8    |                                        |
+| 10/20       | Depression                                            | M&W Ch. 10               | **Quiz 3 Opens**                       |
+| 10/23       | Depression                                            | M&W Ch. 10               |                                        |
 | 10/25       | Bipolar Disorder/DMDD                                 | M&W Ch. 10; Article 9    |                                        |
 | 10/27       | Elimination/Feeding Disorders                         | M&W Ch. 14               | **Quiz 3 Closes**                      |
-| 10/30       | Adolescent Eating Disorders                           | M&W Ch. 14               |                                        |
-| 11/1        | Adolescent Eating Disorders                           | Article 10               | **Quiz 4 Opens**                       |
+| 10/30       | Eating Disorders                                      | M&W Ch. 14               |                                        |
+| 11/1        | Eating Disorders                                      | Article 10               | **Quiz 4 Opens**                       |
 | 11/3        | Substance Use and Risk-Taking                         | M&W Ch. 13 (pp. 467–474) | **1st Draft Due**                      |
 | 11/6        | Suicide and Self-Injury                               | Article 11               | **Peer Reviews Assigned**              |
 | 11/8        | Child Maltreatment & Trauma                           | M&W Ch. 12               | **Quiz 4 Closes**                      |
