@@ -48,8 +48,8 @@ The best way to reach me outside of class is by email.
 The class has one graduate teaching assistant (TA).
 
 Ariel Kim\
-Office: <mark>INSERT OFFICE</mark>\
-Student drop-in hours: <mark>INSERT OFFICE HOURS</mark>\
+Office: 255W Psychological and Brain Sciences Building (PBSB)\
+Student drop-in hours: Monday and Wednesday 9:30–10:30\
 E-mail: nam-yoon-kim@uiowa.edu
 
 # Departmental Resources {#deptResources}
@@ -291,20 +291,20 @@ The workflow of the literature review stages, their respective percentages in th
 You will first develop a topic and a set of keywords for your paper.
 For the review format, this involves generating a specific topic and keywords you will then use to conduct a literature search using [Google Scholar](http://purl.lib.uiowa.edu/GoogleSch), [PsycINFO](http://purl.lib.uiowa.edu/apa/psycinfo), and/or [PubMed](http://purl.lib.uiowa.edu/nlm/pubmed).
 We will discuss strategies for generating topics and keywords in class, and examples will be provided.
-<u>For the [deadline](#deadlines), you will turn in a summary of your research topic (1–2 sentences) and a list of keywords that will start your literature search</u>.
+<u>By the [deadline](#deadlines), you will turn in a summary of your research topic (1–2 sentences) and a list of keywords that will start your literature search</u>.
 
 #### Stage 2: Identify Articles {#stage2}
 
 After your topic has been approved, you will then conduct a search to identify the articles for your paper.
 You will search PsychINFO or PubMed and identify a minimum of five empirical articles that are all relevant to your topic.
 As we will discuss in class, it is important to define your topic carefully so that all of your identified articles are addressing common components.
-<u>For the [deadline](#deadlines), you will turn in your list of articles</u>. 
+<u>By the [deadline](#deadlines), you will turn in your list of articles</u>. 
 
 #### Stage 3: Understand Findings from Articles {#stage3}
 
 Once you have identified the five papers you wish to write about, you will then produce brief summaries of each article that include a description of the methods employed by the researchers and their basic findings (2–4 paragraphs per article for each of your five articles).
 You will also include your reference list, in APA style.
-<u>For the [deadline](#deadlines), you will turn in your article summaries</u>.
+<u>By the [deadline](#deadlines), you will turn in your article summaries</u>.
 
 #### Stage 4: Write a Complete Draft {#stage4}
 
@@ -312,7 +312,7 @@ Next, you will write and turn in a complete draft of your paper.
 The systematic review should include both description of the empirical studies you've included as well as analysis, critique, and integration of findings.
 For this stage, you will also generate a thesis that describes the overall message of your review and you will work to demonstrate how each article is (or is not) supportive of your thesis.
 The goal of this stage is to develop your ideas and argument so that you can receive feedback.
-<u>For the [deadline](#deadlines), you will turn in your first draft of the paper.
+<u>By the [deadline](#deadlines), you will turn in your first draft of the paper.
 Note: you must turn in a complete draft of your paper—not an outline.</u>
 
 #### Stage 5: Give and Receiving Feedback {#stage5}
@@ -322,7 +322,7 @@ Additionally each student will complete an anonymous peer review of a fellow stu
 Peer reviews will be blinded and only I (the instructor) will know which papers belong to which students.
 Reviews will be assigned in class.
 More details about providing an appropriate review and the formatting will be provided in class.
-<u>For the [deadline](#deadlines), you will turn in your review of the peer's paper.</u>
+<u>By the [deadline](#deadlines), you will turn in your review of the peer's paper.</u>
 The instructor will then re-distribute the peer reviews to authors.  
 
 #### Stage 6: Incorporating Feedback and Polishing Writing {#stage6}
