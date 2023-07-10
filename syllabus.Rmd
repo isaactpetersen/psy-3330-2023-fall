@@ -375,42 +375,42 @@ The relative contribution of each component to your final grade is as follows:
 
 | Date        | Topic                                                 | Reading                  | Assignment Due                         |
 |:------------|:------------------------------------------------------|:-------------------------|:---------------------------------------|
-| 8/21        | History of Child Psychopathology                      | M&W Ch. 1; Article 1     |                                        |
-| 8/23        | Developmental Psychopathology                         | M&W Ch. 2                |                                        |
-| 8/25        | Theories & Causes                                     | M&W Ch. 2; Article 2     |                                        |
-| 8/28        | Theories & Causes                                     | M&W Ch. 2                | **Critique 1 Due (Article 2)**         |
-| 8/30        | Research with Children                                | M&W Ch. 3; Article 3     |                                        |
+| 8/21        | History of Child Psychopathology                      | MWW Ch. 1; Article 1     |                                        |
+| 8/23        | Developmental Psychopathology                         | MWW Ch. 2                |                                        |
+| 8/25        | Theories & Causes                                     | MWW Ch. 2; Article 2     |                                        |
+| 8/28        | Theories & Causes                                     | MWW Ch. 2                | **Critique 1 Due (Article 2)**         |
+| 8/30        | Research with Children                                | MWW Ch. 3; Article 3     |                                        |
 | 9/1         | *Conducting a Literature Search*                      |                          |                                        |
 | 9/4         | **No Class – Labor Day**                              |                          | **Quiz 1 Opens**                       |
-| 9/6         | DSM Assessment & Diagnosis                            | M&W Ch. 4                |                                        |
-| 9/8         | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8                | **Critique 2 Due (Article 3)**         |
-| 9/11        | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8                | **Quiz 1 Closes**                      |
-| 9/13        | Attention-Deficit Hyperactivity Disorder              | M&W Ch. 8; Article 4     |                                        |
-| 9/15        | Autism Spectrum Disorders                             | M&W Ch. 6                | **Topic and Keywords Due**             |
-| 9/18        | Autism Spectrum Disorders                             | M&W Ch. 6                |                                        |
-| 9/20        | Autism Spectrum Disorders/*Writing Article Summaries* | M&W Ch. 6   Article 5    |                                        |
+| 9/6         | DSM Assessment & Diagnosis                            | MWW Ch. 4                |                                        |
+| 9/8         | Attention-Deficit Hyperactivity Disorder              | MWW Ch. 8                | **Critique 2 Due (Article 3)**         |
+| 9/11        | Attention-Deficit Hyperactivity Disorder              | MWW Ch. 8                | **Quiz 1 Closes**                      |
+| 9/13        | Attention-Deficit Hyperactivity Disorder              | MWW Ch. 8; Article 4     |                                        |
+| 9/15        | Autism Spectrum Disorders                             | MWW Ch. 6                | **Topic and Keywords Due**             |
+| 9/18        | Autism Spectrum Disorders                             | MWW Ch. 6                |                                        |
+| 9/20        | Autism Spectrum Disorders/*Writing Article Summaries* | MWW Ch. 6   Article 5    |                                        |
 | 9/22        | **Research Day – Work on Paper**                      |                          | **Quiz 2 Opens**                       |
-| 9/25        | Intellectual Disability                               | M&W Ch. 5                | **List of Articles Due**               |
-| 9/27        | Intellectual Disability/Learning Disorders            | M&W Ch. 5                |                                        |
-| 9/29        | Learning Disorders                                    | M&W Ch. 7 (pp. 208–226)  | **Quiz 2 Closes**                      |
+| 9/25        | Intellectual Disability                               | MWW Ch. 5                | **List of Articles Due**               |
+| 9/27        | Intellectual Disability/Learning Disorders            | MWW Ch. 5                |                                        |
+| 9/29        | Learning Disorders                                    | MWW Ch. 7 (pp. 208–226)  | **Quiz 2 Closes**                      |
 | 10/2        | Catch-Up and Exam Review                              |                          |                                        |
 | 10/4        | **MIDTERM EXAM IN CLASS**                             |                          |                                        |
-| 10/6        | Conduct Problems                                      | M&W Ch. 9                |                                        |
-| 10/9        | Conduct Problems                                      | M&W Ch. 9; Article 6     |                                        |
+| 10/6        | Conduct Problems                                      | MWW Ch. 9                |                                        |
+| 10/9        | Conduct Problems                                      | MWW Ch. 9; Article 6     |                                        |
 | 10/11       | *Writing a Literature Review*                         | Article 7                |                                        |
-| 10/13       | Anxiety Disorders                                     | M&W Ch. 11               |                                        |
-| 10/16       | Anxiety Disorders                                     | M&W Ch. 11               | **Article Summaries Due**              |
-| 10/18       | Anxiety Disorders                                     | M&W Ch. 11; Article 8    |                                        |
-| 10/20       | Depression                                            | M&W Ch. 10               | **Quiz 3 Opens**                       |
-| 10/23       | Depression                                            | M&W Ch. 10               |                                        |
-| 10/25       | Bipolar Disorder/DMDD                                 | M&W Ch. 10; Article 9    |                                        |
-| 10/27       | Elimination/Feeding Disorders                         | M&W Ch. 14               | **Quiz 3 Closes**                      |
-| 10/30       | Eating Disorders                                      | M&W Ch. 14               |                                        |
+| 10/13       | Anxiety Disorders                                     | MWW Ch. 11               |                                        |
+| 10/16       | Anxiety Disorders                                     | MWW Ch. 11               | **Article Summaries Due**              |
+| 10/18       | Anxiety Disorders                                     | MWW Ch. 11; Article 8    |                                        |
+| 10/20       | Depression                                            | MWW Ch. 10               | **Quiz 3 Opens**                       |
+| 10/23       | Depression                                            | MWW Ch. 10               |                                        |
+| 10/25       | Bipolar Disorder/DMDD                                 | MWW Ch. 10; Article 9    |                                        |
+| 10/27       | Elimination/Feeding Disorders                         | MWW Ch. 14               | **Quiz 3 Closes**                      |
+| 10/30       | Eating Disorders                                      | MWW Ch. 14               |                                        |
 | 11/1        | Eating Disorders                                      | Article 10               | **Quiz 4 Opens**                       |
-| 11/3        | Substance Use and Risk-Taking                         | M&W Ch. 13 (pp. 467–474) | **1st Draft Due**                      |
+| 11/3        | Substance Use and Risk-Taking                         | MWW Ch. 13 (pp. 467–474) | **1st Draft Due**                      |
 | 11/6        | Suicide and Self-Injury                               | Article 11               | **Peer Reviews Assigned**              |
-| 11/8        | Child Maltreatment & Trauma                           | M&W Ch. 12               | **Quiz 4 Closes**                      |
-| 11/10       | Child Maltreatment & Trauma                           | M&W Ch. 12               |                                        |
+| 11/8        | Child Maltreatment & Trauma                           | MWW Ch. 12               | **Quiz 4 Closes**                      |
+| 11/10       | Child Maltreatment & Trauma                           | MWW Ch. 12               |                                        |
 | 11/13       | Child Maltreatment & Trauma                           | Articles 12 & 13         |                                        |
 | 11/15       | Individual Differences                                | Article 14               | **Quiz 5 Opens**                       |
 | 11/17       | Parenting                                             | Article 15               |                                        |
