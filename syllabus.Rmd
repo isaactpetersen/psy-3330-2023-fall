@@ -144,7 +144,7 @@ If you miss class and/or need help catching up on the notes, please make an appo
 
 ## Attendance and Participation {#attendanceParticipation}
 
-Attendance at lectures is required and will be checked and factored into final grades (see grading section below).
+Attendance at lectures is required and will be checked and factored into final grades (see grading section [below](#grading)).
 There are 43 lectures during the semester (excluding examinations).
 You will receive one point for attendance at each lecture up to 40 points (i.e., you will not receive extra credit for attending all 43 lectures).
 <u>Thus, you will not be penalized for missing up to 3 lectures.
@@ -503,7 +503,6 @@ Arriving prepared for class is part of this expectation.
 - [Non-discrimination](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#non-discrimination-statement)
 - [Religious Holy Days](https://opsmanual.uiowa.edu/students/absences-class#8.2)
 - [Sexual Harassment/Misconduct and Supportive Measures](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sexual-harassment--sexual-misconduct-and-supportive-measures)
-- [Sharing of Class Recordings](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sharing-of-class-recordings-if-appropriate)
 
 # Resources for Help {#resources}
 
