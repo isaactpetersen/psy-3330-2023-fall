@@ -497,7 +497,7 @@ Arriving prepared for class is part of this expectation.
 
 # University Policies {#UIowaPolicies}
 
-[Accommodations for Students with Disabilities](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#accommodations-for-students-with-disabilities)\\
+[Accommodations for Students with Disabilities](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#accommodations-for-students-with-disabilities)\
 The University is committed to providing an educational experience that is accessible to all.
 If a student has a diagnosed disability or other disabling condition that may impact the student's ability to complete the course requirements as stated in the syllabus, the student may seek accommodations through [Student Disability Services](https://sds.studentlife.uiowa.edu/students) (SDS).
 SDS is responsible for making Letters of Accommodation (LOA) available.
