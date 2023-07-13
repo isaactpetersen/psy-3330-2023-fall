@@ -130,6 +130,9 @@ All students in CLAS courses are expected to abide by the [CLAS Code of Academic
 Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
 Please note that collaboration with other classmates on quizzes and during exams is not permitted.
 However, I do encourage you to collaborate with classmates to *prepare* for exams (e.g., informal study groups).
+Because writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all work submitted by students should be prepared by the student.
+Developing strong competencies in these domains will prepare you for a competitive workplace.
+Therefore, AI-generated submissions are not permitted and will be treated as plagiarism.
 
 # Course Requirements and Policies {#requirements}
 
@@ -438,10 +441,11 @@ There are many course resources available to help you succeed in the class, incl
 - the textbook and readings
 - lectures and slides
 - getting and reviewing missed notes from a peer
-- the UI [Writing Center](https://writingcenter.uiowa.edu)
 - TA office hours
 - instructor office hours
 - peer study groups
+- the UI [Writing Center](https://writingcenter.uiowa.edu)
+- Tutor Iowa: https://tutor.uiowa.edu
 
 # Drop Deadline for this Course {#dropDeadline}
 
@@ -465,6 +469,7 @@ Students should contact [CLAS Undergraduate Programs](https://clas.uiowa.edu/stu
 # Communication: UI Email {#email}
 
 Students are responsible for all official correspondences sent to their UI email address (uiowa.edu) and must use this address for any communication with instructors or staff in the UI community.
+For the privacy and the protection of student records, UI faculty and staff can only correspond with UI email addresses.
 
 # Health and Safety {#health}
 
@@ -477,11 +482,10 @@ For up-to-date information throughout the semester, please refer to https://coro
 # College of Liberal Arts and Sciences (CLAS) Course Policies {#clasPolicies}
 
 - [Attendance and Absences](https://clas.uiowa.edu/faculty/student-attendance-and-absences)\
-University regulations require that students be allowed to make up examinations which have been missed due to illness or other unavoidable circumstances.
+[University regulations require that students be allowed to make up examinations](https://opsmanual.uiowa.edu/students/absences-class) that have been missed due to illness, religious holy days, military service obligations (including service-related medical appointments), or other unavoidable circumstances or University-sponsored activities.
 See the section above on "[Missing Exams](#missingExams)" for the documentation necessary for an absence to be excused and to be eligible to take a make-up exam.
-Students with mandatory religious obligations or UI authorized activities must discuss their absences with the instructor or TA as soon as possible.
+Students with UI-authorized activities must discuss their absences with the instructor or TA as soon as possible.
 Religious obligations must be communicated within the first three weeks of classes.
-- [Exam Policies](https://clas.uiowa.edu/faculty/examination-policies-and-best-practices)
 
 ## Other Expectations of Student Performance {#otherExpectations}
 
@@ -493,23 +497,37 @@ Arriving prepared for class is part of this expectation.
 
 # University Policies {#UIowaPolicies}
 
-- [Accommodations for Students with Disabilities](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#accommodations-for-students-with-disabilities)
-- [Basic Needs and Support for Students](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#basic-needs-and-support-for-students)
+[Accommodations for Students with Disabilities](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#accommodations-for-students-with-disabilities)\\
+The University is committed to providing an educational experience that is accessible to all.
+If a student has a diagnosed disability or other disabling condition that may impact the student's ability to complete the course requirements as stated in the syllabus, the student may seek accommodations through [Student Disability Services](https://sds.studentlife.uiowa.edu/students) (SDS).
+SDS is responsible for making Letters of Accommodation (LOA) available.
+The student must provide an LOA to the instructor as early in the semester as possible, but requests not made at least two weeks prior to the scheduled activity for which an accommodation is sought may not be accommodated.
+The LOA will specify what reasonable course accommodations the student is eligible for and those the instructor should provide. Additional information can be found on the [SDS website](https://sds.studentlife.uiowa.edu/students/apply).
+
 - [Classroom Expectations](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#classroom-expectations)
-- [Exam Make-up Owing to Absence](https://opsmanual.uiowa.edu/students/absences-class#8.1)
 - [Free Speech and Expression](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#free-speech-and-expression)
-- [Mental Health](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#mental-health)
-- [Military Service Obligations](https://opsmanual.uiowa.edu/students/absences-class#8.3)
 - [Non-discrimination](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#non-discrimination-statement)
-- [Religious Holy Days](https://opsmanual.uiowa.edu/students/absences-class#8.2)
+- [Absences for Religious Holy Days](https://opsmanual.uiowa.edu/students/absences-class#8.2)
 - [Sexual Harassment/Misconduct and Supportive Measures](https://provost.uiowa.edu/teaching-resources/course-syllabi-information#sexual-harassment--sexual-misconduct-and-supportive-measures)
 
-# Resources for Help {#resources}
+# Where to Get Academic Support for This Course {#academic-support}
 
-- Drop-in study groups and one-on-one tutoring: TA office hours
+- <mark>Drop-in study groups and one-on-one tutoring: drop-in student hours of the TA and instructor</mark>
 - Formal tutoring: Tutor Iowa: https://tutor.uiowa.edu
+- UI Writing Center: https://writingcenter.uiowa.edu
 - Academic accommodations: https://sds.studentlife.uiowa.edu
-- Student care and assistance: https://basicneeds.uiowa.edu/resources/student-care-and-assistance
+
+# Mental Health Resources and Student Support {#mental-health}
+
+Students are encouraged to be mindful of their mental health and seek help as a preventive measure or if feeling overwhelmed and/or struggling to meet course expectations.
+Students are encouraged to talk to their instructor for assistance with specific class-related concerns.
+For additional support and counseling, students are encouraged to contact University Counseling Service (UCS).
+Information about UCS, including resources and how to schedule an appointment, can be found at [counseling.uiowa.edu](http://counseling.uiowa.edu).
+Find out more about UI mental health services at [mentalhealth.uiowa.edu](http://mentalhealth.uiowa.edu).
+
+[Student Care and Assistance](https://dos.uiowa.edu/assistance) provides assistance to University of Iowa students who are experiencing a variety of crisis and emergency situations, including but not limited to medical issues, family emergencies, unexpected challenges, and sourcing basic needs such as food and shelter.
+More information on the resources related to basic needs can be found at [basicneeds.uiowa.edu/resources](https://basicneeds.uiowa.edu/resources).
+Students are encouraged to contact Student Care & Assistance in the Office of the Dean of Students (Room 135 IMU, [dos-assistance@uiowa.edu](dos-assistance@uiowa.edu), or 319-335-1162) for support and assistance with resources.
 
 If you feel that you or someone you know may be struggling with an academic, emotional, or psychological problem, the following organizations are available for assistance:
 
