@@ -367,12 +367,12 @@ For example, a course percent of 79.50 would receive a B-, whereas a course perc
 
 The relative contribution of each component to your final grade is as follows:
 
-- 5%    Lecture Attendance
-- 10%   Literature Critiques (2 at 5% each)
-- 20%   Exam 1 (Mid-Term)
-- 20%   Exam 2 (Final)
-- 15%   Quizzes (5 quizzes after dropping lowest quiz score, 3% each)
-- 30%   Literature Review
+- 5%    [Lecture Attendance](#attendanceParticipation)
+- 10%   [Literature Critiques](#litCritiques) (2 at 5% each)
+- 20%   [Exam 1](#exams) (Mid-Term)
+- 20%   [Exam 2](#exams) (Final)
+- 15%   [Quizzes](#quizzes) (5 quizzes after dropping lowest quiz score, 3% each)
+- 30%   [Literature Review](#litReview)
 
 # Tentative Course Outline (exam dates fixed) {#outline}
 
