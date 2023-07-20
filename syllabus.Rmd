@@ -395,7 +395,7 @@ The relative contribution of each component to your final grade is as follows:
 | 9/22        | **Research Day – Work on Paper**                      |                          | **Quiz 2 Opens**                       |
 | 9/25        | Intellectual Disability                               | MWW Ch. 5                | **List of Articles Due**               |
 | 9/27        | Intellectual Disability/Learning Disorders            | MWW Ch. 5                |                                        |
-| 9/29        | Learning Disorders                                    | MWW Ch. 7 (pp. 208–226)  | **Quiz 2 Closes**                      |
+| 9/29        | Learning Disorders                                    | MWW Ch. 7: Section 7.4 ("Specific Learning Disorder") through the end of the chapter | **Quiz 2 Closes**                      |
 | 10/2        | Catch-Up and Exam Review                              |                          |                                        |
 | 10/4        | **MIDTERM EXAM IN CLASS**                             |                          |                                        |
 | 10/6        | Conduct Problems                                      | MWW Ch. 9                |                                        |
@@ -410,7 +410,7 @@ The relative contribution of each component to your final grade is as follows:
 | 10/27       | Elimination/Feeding Disorders                         | MWW Ch. 14               | **Quiz 3 Closes**                      |
 | 10/30       | Eating Disorders                                      | MWW Ch. 14               |                                        |
 | 11/1        | Eating Disorders                                      | Article 10               | **Quiz 4 Opens**                       |
-| 11/3        | Substance Use and Risk-Taking                         | MWW Ch. 13 (pp. 467–474) | **1st Draft Due**                      |
+| 11/3        | Substance Use and Risk-Taking                         | MWW Ch. 13: Section 13.5 ("Adolescent Substance-Use Disorders") through the end of the chapter | **1st Draft Due**                      |
 | 11/6        | Suicide and Self-Injury                               | Article 11               | **Peer Reviews Assigned**              |
 | 11/8        | Child Maltreatment & Trauma                           | MWW Ch. 12               | **Quiz 4 Closes**                      |
 | 11/10       | Child Maltreatment & Trauma                           | MWW Ch. 12               |                                        |
