@@ -378,8 +378,8 @@ The relative contribution of each component to your final grade is as follows:
 
 | Date        | Topic                                                 | Reading                  | Assignment Due                         |
 |:------------|:------------------------------------------------------|:-------------------------|:---------------------------------------|
-| 8/21        | History of Child Psychopathology                      | MWW Ch. 1; Article 1     |                                        |
-| 8/23        | Developmental Psychopathology                         | MWW Ch. 2                |                                        |
+| 8/21        | History of Child Psychopathology                      | MWW Ch. 1                |                                        |
+| 8/23        | Developmental Psychopathology                         | MWW Ch. 2; Article 1     |                                        |
 | 8/25        | Theories & Causes                                     | MWW Ch. 2; Article 2     |                                        |
 | 8/28        | Theories & Causes                                     | MWW Ch. 2                | **Critique 1 Due (Article 2)**         |
 | 8/30        | Research with Children                                | MWW Ch. 3; Article 3     |                                        |
@@ -391,11 +391,11 @@ The relative contribution of each component to your final grade is as follows:
 | 9/13        | Attention-Deficit Hyperactivity Disorder              | MWW Ch. 8; Article 4     |                                        |
 | 9/15        | Autism Spectrum Disorders                             | MWW Ch. 6                | **Topic and Keywords Due**             |
 | 9/18        | Autism Spectrum Disorders                             | MWW Ch. 6                |                                        |
-| 9/20        | Autism Spectrum Disorders/*Writing Article Summaries* | MWW Ch. 6   Article 5    |                                        |
+| 9/20        | Autism Spectrum Disorders/*Writing Article Summaries* | MWW Ch. 6; Article 5     |                                        |
 | 9/22        | **Research Day – Work on Paper**                      |                          | **Quiz 2 Opens**                       |
 | 9/25        | Intellectual Disability                               | MWW Ch. 5                | **List of Articles Due**               |
 | 9/27        | Intellectual Disability/Learning Disorders            | MWW Ch. 5                |                                        |
-| 9/29        | Learning Disorders                                    | MWW Ch. 7: Section 7.4 ("Specific Learning Disorder") through the end of the chapter | **Quiz 2 Closes**                      |
+| 9/29        | Learning Disorders                                    | MWW Section 7.4 ("Specific Learning Disorder") through the end of the chapter | **Quiz 2 Closes**                      |
 | 10/2        | Catch-Up and Exam Review                              |                          |                                        |
 | 10/4        | **MIDTERM EXAM IN CLASS**                             |                          |                                        |
 | 10/6        | Conduct Problems                                      | MWW Ch. 9                |                                        |
@@ -407,10 +407,10 @@ The relative contribution of each component to your final grade is as follows:
 | 10/20       | Depression                                            | MWW Ch. 10               | **Quiz 3 Opens**                       |
 | 10/23       | Depression                                            | MWW Ch. 10               |                                        |
 | 10/25       | Bipolar Disorder/DMDD                                 | MWW Ch. 10; Article 9    |                                        |
-| 10/27       | Elimination/Feeding Disorders                         | MWW Ch. 14               | **Quiz 3 Closes**                      |
+| 10/27       | Elimination/Feeding Disorders                         | MWW Section 13.3: ("Elimination Disorders", "Enuresis", and "Encopresis"); MWW Ch. 14 | **Quiz 3 Closes**                      |
 | 10/30       | Eating Disorders                                      | MWW Ch. 14               |                                        |
 | 11/1        | Eating Disorders                                      | Article 10               | **Quiz 4 Opens**                       |
-| 11/3        | Substance Use and Risk-Taking                         | MWW Ch. 13: Section 13.5 ("Adolescent Substance-Use Disorders") through the end of the chapter | **1st Draft Due**                      |
+| 11/3        | Substance Use and Risk-Taking                         | MWW Section 13.5 ("Adolescent Substance-Use Disorders") through the end of the chapter | **1st Draft Due**                      |
 | 11/6        | Suicide and Self-Injury                               | Article 11               | **Peer Reviews Assigned**              |
 | 11/8        | Child Maltreatment & Trauma                           | MWW Ch. 12               | **Quiz 4 Closes**                      |
 | 11/10       | Child Maltreatment & Trauma                           | MWW Ch. 12               |                                        |
