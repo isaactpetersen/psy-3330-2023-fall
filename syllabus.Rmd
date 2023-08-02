@@ -192,8 +192,8 @@ All quizzes should be submitted to [ICON](https://icon.uiowa.edu) by 11:59 p.m. 
 | Quiz # | Dates Available | Topics Covered                                                 |
 |--------|-----------------|----------------------------------------------------------------|
 | 1      | 9/4 – 9/11      | History/D&P Model, Theories & Causes, Research with Children   |
-| 2      | 9/22 – 10/1     | ADHD, ASD, Intellectual Disability, Specific Learning Disorder |
-| 3      | 10/20 – 10/29   | CD, Anxiety, Depression, Bipolar, DMDD                         |
+| 2      | 9/22 – 9/29     | ADHD, ASD, Intellectual Disability, Specific Learning Disorder |
+| 3      | 10/20 – 10/27   | CD, Anxiety, Depression, Bipolar, DMDD                         |
 | 4      | 11/1 – 11/8     | Elimination, Eating, Substance-Related Disorders, Self-Injury  |
 | 5      | 11/15 – 11/29   | Maltreatment and Resilience                                    |
 | 6      | 12/1 – 12/8     | Levels of Analysis Articles, Prevention                        |
