@@ -244,7 +244,7 @@ The topic of the paper is completely up to the student; the only requirement is 
 The paper must include a review and analysis of at least 5 empirical articles on the topic, published since 2000.
 You are encouraged to work with the [UI Writing Center](https://writingcenter.uiowa.edu) in revising your paper.
 
-### Format
+### Format {#litReviewFormat}
 
 The paper should have five sections:
 
@@ -258,9 +258,9 @@ The main body of the paper should be <u>10–12 pages</u>, excluding the cover l
 The text should be double-spaced, in [APA format](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html), and in 12-point Times New Roman font.
 For sample papers in APA format, see [here](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html).
 
-### Stages
+### Stages {#stages}
 
-#### Overview
+#### Overview {#stagesOverview}
 
 This paper will be completed in 6 stages, all uploaded to [ICON](https://icon.uiowa.edu):
 
