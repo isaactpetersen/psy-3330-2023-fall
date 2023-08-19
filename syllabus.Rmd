@@ -162,9 +162,9 @@ You will receive one point for attendance at each lecture up to 40 points (i.e.,
 However, you will be responsible for learning any material missed for quizzes and exams, and I strongly encourage you to attend all lectures.
 Poor lecture attendance is likely to affect the quality of students' work and success in the course.</u>
 
-Students who miss <u>more than 3 lectures</u> due to participation in University activities be will asked to give the instructor a statement <u>before the absence</u> signed by a responsible official that specifies the dates and times the student will miss class.
+Students who miss <u>more than 3 lectures</u> due to participation in University activities must give the instructor a statement <u>before the absence</u> signed by a responsible official that specifies the dates and times the student will miss class.
 Authorized activities include participation in athletic teams, the marching band or pep band, debate teams, and other recognized University groups, as well as participation in University field trips, service with the National Guard, and jury duty.
-Absences due to illnesses or emergencies (that go over 3 lectures) must be documented with the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and sent to within 48 hours of the absence.
+Absences due to illnesses or emergencies (that go over 3 lectures) must be documented with the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/faculty/student-attendance-and-absences) and sent to the TA within 48 hours of the absence.
 Per university policy, if a student will be absent <u>5 or more consecutive days and the absence is due to illness or other emergency</u>, please contact the Registrar Service Center at (319) 384-4300 or registrar@uiowa.edu.
 
 ## Readings {#readings}
