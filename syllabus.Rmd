@@ -400,8 +400,8 @@ The relative contribution of each component to your final grade is as follows:
 | 9/15        | Autism Spectrum Disorders                             | MWW Ch. 6                | **Topic and Keywords Due**             |
 | 9/18        | Autism Spectrum Disorders                             | MWW Ch. 6                |                                        |
 | 9/20        | Autism Spectrum Disorders/*Writing Article Summaries* | MWW Ch. 6; Article 5     |                                        |
-| 9/22        | **Research Day – Work on Paper**                      |                          | **Quiz 2 Opens**                       |
-| 9/25        | Intellectual Disability                               | MWW Ch. 5                | **List of Articles Due**               |
+| 9/22        | Intellectual Disability                               | MWW Ch. 5                | **Quiz 2 Opens**                       |
+| 9/25        | **Research Day – Work on Paper**                      |                          | **List of Articles Due**               |
 | 9/27        | Intellectual Disability/Learning Disorders            | MWW Ch. 5                |                                        |
 | 9/29        | Learning Disorders                                    | MWW Section 7.4 ("Specific Learning Disorder") through the end of the chapter | **Quiz 2 Closes**                      |
 | 10/2        | Catch-Up and Exam Review                              |                          |                                        |
