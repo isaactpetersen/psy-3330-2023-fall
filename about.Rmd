@@ -10,7 +10,7 @@ knitr::opts_chunk$set(
 ```
 
 The Class Wiki was generated with [`rmarkdown`](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html) (archived at https://perma.cc/VYU5-J2BF).
-The codebase that was used to generate the Class Wiki is located [here](https://github.com/isaactpetersen/psy-3300-2023-fall).
+The codebase that was used to generate the Class Wiki is located [here](https://github.com/isaactpetersen/psy-3330-2023-fall).
 
 # License
 
